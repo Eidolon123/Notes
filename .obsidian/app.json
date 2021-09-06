@@ -1,12 +1,11 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true,
   "spellcheck": true,
   "foldHeading": true,
-  "vimMode": true,
+  "foldIndent": false,
   "spellcheckDictionary": [
-    "hpp",
-    "cpp",
-    "dont"
+    "Destructor",
+    "destructor",
+    "initialise"
   ]
 }

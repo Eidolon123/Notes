@@ -1,29 +1,32 @@
 {
   "main": {
-    "id": "b076a1ab7bcb0376",
+    "id": "04369a07e949dc25",
     "type": "split",
     "children": [
       {
-        "id": "378df8dcecba41bb",
+        "id": "2580dfdde81efe09",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "tesst.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ddfee30cb8e54dfa",
+    "id": "b69dab5cced31f24",
     "type": "split",
     "children": [
       {
-        "id": "64b46af7defec034",
+        "id": "2aeebb3c789893bc",
         "type": "tabs",
         "children": [
           {
-            "id": "e2f192b3ed746182",
+            "id": "6154372965a75c2e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "46f3e3cb571c6d79",
+            "id": "74e2dcd9beebb48d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,19 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "1480563c04bd0de7",
+    "id": "1b65f3997955c74d",
     "type": "split",
     "children": [
       {
-        "id": "5ead1ebb481813d1",
+        "id": "7f5ea806789a6aa7",
         "type": "tabs",
         "children": [
           {
-            "id": "494674f80796fb43",
+            "id": "0dcc25a9272bcae5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tesst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "378df8dcecba41bb",
+  "active": "2580dfdde81efe09",
   "lastOpenFiles": [
-    "Functions.md",
-    "Concepts.md",
-    "Concepts 1.md",
-    "OOP/Object.md",
-    "OOP/Class.md",
-    "OOP/Objects.md",
-    "OOP/Classes.md",
-    "Classes.md",
-    "Objects.md",
     "Untitled.md"
   ]
 }
