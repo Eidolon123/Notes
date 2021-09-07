@@ -1,32 +1,47 @@
-## Declaration and Definition
+## declaration_and_defining
 
-To keep code clean and modular the declarations and definitions of functions are split into Multiple Files ([[Concepts#Multiple Files]]).
+To keep code clean and modular the declarations and definitions of functions are split into Multiple Files ([[general_concepts#Multiple Files]]).
 
-## Function Overloading
+A standard declaration in a header file:
+
+```cpp
+void functionName(int param1, std::string param2);
+```
+
+A standard definition in a **.cpp** file
+
+```cpp
+void functionName(int param1, std::string param2){
+	// function body here
+}
+```
+
+As seen in the above examples **camelCase** is used in function names as standard practice.
+## function_overloading
 
 Functions can be named the same thing in order to take different data types as parameters. C++ will know what to do when passed the different types.
 
 ```cpp
-void self_addition(char let) {
+void selfAddition(char let) {
 	char result = let + let
 	std::cout << result << endl;
 }
 ```
 
 ```cpp
-void self_addition(int num) {
+void selfAddition(int num) {
 	num result = num + num
 	std::cout << result << endl;
 }
 ```
 
-The function print_cat_ears will take either int or char type, either function definition will be executed depending on the type of data passed when it is called:
+The function selfAddition will take either int or char type, either function definition will be executed depending on the type of data passed when it is called:
 
 A function call of: `self_addition('A')` results in > `'AA'` being printed.
 
 A function call of: `self_addition(2)` results in > `4` being printed.
 
-## Function Templates
+## function_templates
 
 More efficient than overloading if the body of the function is the same
 
@@ -34,7 +49,7 @@ Because the function print_cat_ears from the overloading example has the same bo
 
 ```cpp
 template<typename T>
-T self_addition(T item) {
+T selfAddition(T item) {
 	T result = item + item
 	std::cout << result << endl;
 }
@@ -44,9 +59,9 @@ This function will now take any data type as long as it works with the function 
 
 Not shown in this example but the template will also work for return types.
 
-## Inline Functions
+## inline_functions
 
-Instead of defining a function in a **.cpp** file, if it is short and concise it can be defined **_inline_** in the **.hpp** header ([[Concepts#Multiple Files#Header Files]]) file:
+Instead of defining a function in a **.cpp** file, if it is short and concise it can be defined **_inline_** in the **.hpp** header ([[general_concepts#Multiple Files#Header Files]]) file:
 
 ```cpp
 // Inide a header file.
@@ -54,7 +69,7 @@ inline
 void function_name(int param1, std::string param2){ function body }
 ```
 
-## Default Arguments
+## default_arguments
 
 If a parameter will more than likely have the same argument passed to it everytime a default value can be defined in the function declaration.
 

@@ -9,23 +9,67 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++/Object Oriented Programming.md",
+            "file": "C++/objects.md",
             "mode": "source"
           }
         },
         "group": "9df2b77f4de2174b"
       },
       {
-        "id": "284a00d01bc194d6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "C++/Object Oriented Programming.md",
-            "mode": "preview"
+        "id": "051076d7de9e0def",
+        "type": "split",
+        "children": [
+          {
+            "id": "284a00d01bc194d6",
+            "type": "leaf",
+            "dimension": 59.52890792291221,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/objects.md",
+                "mode": "preview"
+              }
+            },
+            "group": "9df2b77f4de2174b"
+          },
+          {
+            "id": "f14b12e01daf719d",
+            "type": "leaf",
+            "dimension": 40.471092077087796,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "C++/objects.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7338393780530665,
+                  "close": false
+                }
+              }
+            }
           }
-        },
-        "group": "9df2b77f4de2174b"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -81,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Object Oriented Programming.md",
+                "file": "C++/objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,14 +145,15 @@
   },
   "active": "06095f7e08883f88",
   "lastOpenFiles": [
-    "C++/Object Oriented Programming.md",
-    "C++/Functions.md",
-    "C++/Concepts.md",
-    "C++/Variables.md",
+    "C++/objects.md",
+    "C++/functions.md",
+    "C++/classes.md",
+    "C++/general_concepts.md",
+    "C++/variables.md",
+    "C++/classes_and_objects.md",
     "Untitled.md",
-    "Class.md",
-    "C++/OOP/Class.md",
-    "C++/OOP/Object.md",
-    "Networks/tesst.md"
+    "C++/Concepts.md",
+    "C++/Classes_and_Objects.md",
+    "C++/Variables.md"
   ]
 }

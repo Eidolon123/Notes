@@ -7,5 +7,6 @@
     "Destructor",
     "destructor",
     "initialise"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
