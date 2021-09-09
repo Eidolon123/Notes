@@ -1,3 +1,5 @@
+## classes
+
 Allows users to create custom data types to represent more and more complex data.
 
 A class is a blueprint of a data type, what it looks like and what its made up of in terms of attributes ([[variables]]) and methods ([[functions]]).

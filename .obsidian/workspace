@@ -4,38 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "06095f7e08883f88",
+        "id": "284a00d01bc194d6",
         "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++/references.md",
+            "file": "C++/pointers.md",
             "mode": "source"
           }
         },
-        "group": "9df2b77f4de2174b"
+        "group": "66e461404e669dec"
       },
       {
-        "id": "051076d7de9e0def",
+        "id": "41d434a6a8a02ba2",
         "type": "split",
+        "dimension": 50,
         "children": [
           {
-            "id": "284a00d01bc194d6",
+            "id": "1a0d4baa31bb3994",
             "type": "leaf",
-            "dimension": 63.704496788008576,
+            "dimension": 65.09635974304068,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/references.md",
+                "file": "C++/pointers.md",
                 "mode": "preview"
               }
             },
-            "group": "9df2b77f4de2174b"
+            "group": "66e461404e669dec"
           },
           {
-            "id": "f14b12e01daf719d",
+            "id": "6f56ab93c82b987b",
             "type": "leaf",
-            "dimension": 36.29550321199144,
+            "dimension": 34.903640256959314,
             "state": {
               "type": "graph",
               "state": {}
@@ -82,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "826f3f577e2ead28",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/references.md",
+                "file": "C++/pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,10 +118,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "06095f7e08883f88",
+  "active": "284a00d01bc194d6",
   "lastOpenFiles": [
-    "C++/references.md",
     "C++/pointers.md",
+    "C++/references.md",
     "C++/general_concepts.md",
     "C++/classes.md",
     "C++/functions.md",

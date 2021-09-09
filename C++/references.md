@@ -10,10 +10,10 @@ int five = 5; // Normal int variable
 int &cinq = five;
 ```
 
-Now if an action is performed on `&cinq` it will also affect the variable `five`.
+Now if an action is performed on `cinq` it will also affect the variable `five`.
 
-## pass_by_reference
- Passing by reference is when parameters are passed to a function as references instead of the original variable.
+## pass-by-reference
+ Passing by reference is when parameters are passed to a function as references instead of the original variable (This is known as pass-by-value).
  
  This is done when we want to modify the value of the argument passed to the function. It also avoids the performance cost of creating copies of variables or objects for this purpose.
  
@@ -53,7 +53,48 @@ Output without using references:
 
 ### Const
 
+The `const` keyword tells the compiler that we wont be changing the data it is assigned to.
 
+Example code:
+
+```cpp
+int timesTwo(int const &i){
+	return i*2;
+}
+```
+
+In the above function we are not modifying `i`, just returning its value * 2. If the value of `i` were to change inside the function the compiler will throw an error.
+
+Example code that would throw an error:
+
+```cpp
+void timesTwo(int const &i){
+    i += i;
+}
+```
+
+Error on compile:
+
+```error
+error: assignment of read-only reference ‘i’
+	i += i;
+```
 
 ## memory_addresses
+
+The `&` operator is used to create a reference but can also be used to get the address of an object.
+
+Example code:
+
+```cpp
+int box_count = 3;
+std::cout << &box_count << "\n";
+```
+
+Output:
+
+```cpp
+0x7ffd7caa5b54
+```
+>This is the hexadecimal memory address of the variable `box_count`.
 

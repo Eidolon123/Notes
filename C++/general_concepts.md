@@ -54,3 +54,7 @@ Used to declare items such as functions ([[functions]]) and classes ([[classes]]
 ## object_oriented_programming
 
 This concept makes use of [[classes]] and [[objects]] to allow the user to represent complex data types and use them in programs. This is kind of the whole point of C++ over C.
+
+## memory_addresses
+
+[[references]] [[pointers]]
