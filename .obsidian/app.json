@@ -6,7 +6,8 @@
   "spellcheckDictionary": [
     "Destructor",
     "destructor",
-    "initialise"
+    "initialise",
+    "dereferencing"
   ],
   "alwaysUpdateLinks": true
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++/objects.md",
+            "file": "C++/references.md",
             "mode": "source"
           }
         },
@@ -22,11 +22,11 @@
           {
             "id": "284a00d01bc194d6",
             "type": "leaf",
-            "dimension": 59.52890792291221,
+            "dimension": 63.704496788008576,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/objects.md",
+                "file": "C++/references.md",
                 "mode": "preview"
               }
             },
@@ -35,37 +35,10 @@
           {
             "id": "f14b12e01daf719d",
             "type": "leaf",
-            "dimension": 40.471092077087796,
+            "dimension": 36.29550321199144,
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "C++/objects.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7338393780530665,
-                  "close": false
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -109,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "826f3f577e2ead28",
@@ -125,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/objects.md",
+                "file": "C++/references.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +119,15 @@
   },
   "active": "06095f7e08883f88",
   "lastOpenFiles": [
-    "C++/objects.md",
-    "C++/functions.md",
-    "C++/classes.md",
+    "C++/references.md",
+    "C++/pointers.md",
     "C++/general_concepts.md",
+    "C++/classes.md",
+    "C++/functions.md",
+    "C++/objects.md",
     "C++/variables.md",
-    "C++/classes_and_objects.md",
     "Untitled.md",
-    "C++/Concepts.md",
-    "C++/Classes_and_Objects.md",
-    "C++/Variables.md"
+    "C++/classes_and_objects.md",
+    "C++/Concepts.md"
   ]
 }
