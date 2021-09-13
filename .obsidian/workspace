@@ -4,47 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "284a00d01bc194d6",
+        "id": "983979024ca4db0f",
         "type": "leaf",
-        "dimension": 49.61453744493392,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "digital_garden/WriteUps/TryHackMe/wonderland.md",
+            "file": "digital_garden/Uni/350/assessment.md",
             "mode": "source"
           }
         },
-        "group": "683eabde7ca0a3db"
+        "group": "7f3cb8aed7423264"
       },
       {
-        "id": "abd51cb5b780c28b",
-        "type": "split",
-        "dimension": 50.38546255506608,
-        "children": [
-          {
-            "id": "0943a213f176d828",
-            "type": "leaf",
-            "dimension": 69.27194860813705,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "digital_garden/WriteUps/TryHackMe/wonderland.md",
-                "mode": "preview"
-              }
-            },
-            "group": "683eabde7ca0a3db"
-          },
-          {
-            "id": "6f56ab93c82b987b",
-            "type": "leaf",
-            "dimension": 30.728051391862955,
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+        "id": "b024cf537ae64ac5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "digital_garden/Uni/350/assessment.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "7f3cb8aed7423264"
       }
     ],
     "direction": "vertical"
@@ -84,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "826f3f577e2ead28",
@@ -101,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital_garden/WriteUps/TryHackMe/wonderland.md",
+                "file": "digital_garden/Uni/350/assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "284a00d01bc194d6",
+  "active": "983979024ca4db0f",
   "lastOpenFiles": [
-    "digital_garden/WriteUps/TryHackMe/wonderland.md",
-    "Untitled.md",
-    "digital_garden/Uni/350/9b-cyber-threat-intel.md",
     "digital_garden/Uni/350/Untitled.md",
-    "digital_garden/Uni/Untitled.md",
-    "digital_garden/Uni/345/Untitled.md",
-    "digital_garden/Uni/345/Untitled 1.md",
-    "digital_garden/Uni/345/penetration-testing-methodology.md",
-    "digital_garden/Uni/345/professional-legal-ethical-issues.md",
-    "digital_garden/Uni/345/lesson-1-(untitled).md"
+    "digital_garden/Uni/350/1-security-operations.md",
+    "digital_garden/Hacking/WriteUps/TryHackMe/wonderland.md",
+    "Untitled.md",
+    "digital_garden/WriteUps/TryHackMe/wonderland.md",
+    "digital_garden/Uni/345/1-professional-legal-ethical-issues.md",
+    "Images/wonderland/Pasted image 20210913124308.png",
+    "Images/alice_homepage.png",
+    "Images/wonderland_nmap.png",
+    "Images/wonderland/wonderland_ssh_alice.png"
   ]
 }

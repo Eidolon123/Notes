@@ -7,7 +7,8 @@
     "Destructor",
     "destructor",
     "initialise",
-    "dereferencing"
+    "dereferencing",
+    "pentest"
   ],
   "alwaysUpdateLinks": true
 }
