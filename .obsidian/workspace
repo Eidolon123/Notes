@@ -6,38 +6,38 @@
       {
         "id": "284a00d01bc194d6",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 49.61453744493392,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++/pointers.md",
+            "file": "digital_garden/WriteUps/TryHackMe/wonderland.md",
             "mode": "source"
           }
         },
-        "group": "66e461404e669dec"
+        "group": "683eabde7ca0a3db"
       },
       {
-        "id": "41d434a6a8a02ba2",
+        "id": "abd51cb5b780c28b",
         "type": "split",
-        "dimension": 50,
+        "dimension": 50.38546255506608,
         "children": [
           {
-            "id": "1a0d4baa31bb3994",
+            "id": "0943a213f176d828",
             "type": "leaf",
-            "dimension": 65.09635974304068,
+            "dimension": 69.27194860813705,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/pointers.md",
+                "file": "digital_garden/WriteUps/TryHackMe/wonderland.md",
                 "mode": "preview"
               }
             },
-            "group": "66e461404e669dec"
+            "group": "683eabde7ca0a3db"
           },
           {
             "id": "6f56ab93c82b987b",
             "type": "leaf",
-            "dimension": 34.903640256959314,
+            "dimension": 30.728051391862955,
             "state": {
               "type": "graph",
               "state": {}
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "826f3f577e2ead28",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/pointers.md",
+                "file": "digital_garden/WriteUps/TryHackMe/wonderland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +121,15 @@
   },
   "active": "284a00d01bc194d6",
   "lastOpenFiles": [
-    "C++/pointers.md",
-    "C++/references.md",
-    "C++/general_concepts.md",
-    "C++/classes.md",
-    "C++/functions.md",
-    "C++/objects.md",
-    "C++/variables.md",
+    "digital_garden/WriteUps/TryHackMe/wonderland.md",
     "Untitled.md",
-    "C++/classes_and_objects.md",
-    "C++/Concepts.md"
+    "digital_garden/Uni/350/9b-cyber-threat-intel.md",
+    "digital_garden/Uni/350/Untitled.md",
+    "digital_garden/Uni/Untitled.md",
+    "digital_garden/Uni/345/Untitled.md",
+    "digital_garden/Uni/345/Untitled 1.md",
+    "digital_garden/Uni/345/penetration-testing-methodology.md",
+    "digital_garden/Uni/345/professional-legal-ethical-issues.md",
+    "digital_garden/Uni/345/lesson-1-(untitled).md"
   ]
 }
