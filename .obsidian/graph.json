@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "path:digital_garden/Uni/345",
+  "collapse-filter": true,
+  "search": "path:digital_garden/Uni/year3/345CT",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,51 +8,44 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:digital_garden/C++",
+      "query": "path:digital_garden/Uni",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:digital_garden/Networks",
+      "query": "path:digital_garden/C++",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 16449791
       }
     },
     {
-      "query": "path:digital_garden/Uni/324",
+      "query": "path:digital_garden/Hacking",
+      "color": {
+        "a": 1,
+        "rgb": 15204147
+      }
+    },
+    {
+      "query": "path:/",
       "color": {
         "a": 1,
         "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:digital_garden/Uni/345",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:digital_garden/Uni/350",
-      "color": {
-        "a": 1,
-        "rgb": 1197406
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8699966362583545,
+  "scale": 1.2414543899483106,
   "close": true
 }

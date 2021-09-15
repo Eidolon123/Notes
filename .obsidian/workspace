@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "983979024ca4db0f",
+        "id": "0639f850b4b24637",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "digital_garden/Uni/350/assessment.md",
-            "mode": "source"
-          }
-        },
-        "group": "7f3cb8aed7423264"
-      },
-      {
-        "id": "b024cf537ae64ac5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "digital_garden/Uni/350/assessment.md",
+            "file": "digital_garden/Uni/year3/345CT/1-professional-legal-ethical-issues-in-hacking.md",
             "mode": "preview"
           }
         },
-        "group": "7f3cb8aed7423264"
+        "group": "5923de1e5b84b996"
+      },
+      {
+        "id": "8743289091eb002c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "digital_garden/Uni/year3/345CT/1-professional-legal-ethical-issues-in-hacking.md",
+            "mode": "source"
+          }
+        },
+        "group": "5923de1e5b84b996"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital_garden/Uni/350/assessment.md",
+                "file": "digital_garden/Uni/year3/345CT/1-professional-legal-ethical-issues-in-hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "983979024ca4db0f",
+  "active": "8743289091eb002c",
   "lastOpenFiles": [
-    "digital_garden/Uni/350/Untitled.md",
-    "digital_garden/Uni/350/1-security-operations.md",
-    "digital_garden/Hacking/WriteUps/TryHackMe/wonderland.md",
-    "Untitled.md",
-    "digital_garden/WriteUps/TryHackMe/wonderland.md",
-    "digital_garden/Uni/345/1-professional-legal-ethical-issues.md",
-    "Images/wonderland/Pasted image 20210913124308.png",
-    "Images/alice_homepage.png",
-    "Images/wonderland_nmap.png",
-    "Images/wonderland/wonderland_ssh_alice.png"
+    "digital_garden/Uni/year3/345CT/1-professional-legal-ethical-issues-in-hacking.md",
+    "digital_garden/coding/C++/pointers.md",
+    "digital_garden/coding/C++/references.md",
+    "digital_garden/Uni/year3/345CT/assessment.md",
+    "digital_garden/Uni/year3/345CT/2-penetration-testing-methodology.md",
+    "digital_garden/C++/classes.md",
+    "digital_garden/Uni/year3/345CT/4-scanning-vuln-assessment.md",
+    "digital_garden/Uni/year3/345CT/1-professional-legal-ethical-issues.md",
+    "digital_garden/Uni/year3/README.md",
+    "digital_garden/Uni/345/1-professional-legal-ethical-issues.md"
   ]
 }

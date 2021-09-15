@@ -8,7 +8,16 @@
     "destructor",
     "initialise",
     "dereferencing",
-    "pentest"
+    "pentest",
+    "Organisational",
+    "unauthorised",
+    "authorised",
+    "Cyber",
+    "organisation",
+    "organised",
+    "specialise",
+    "Pretexting",
+    "Scareware"
   ],
   "alwaysUpdateLinks": true
 }
