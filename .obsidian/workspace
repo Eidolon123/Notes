@@ -6,10 +6,11 @@
       {
         "id": "0639f850b4b24637",
         "type": "leaf",
+        "dimension": 44.80471628592483,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "digital_garden/Uni/year3/345CT/1-professional-legal-ethical-issues-in-hacking.md",
+            "file": "digital_garden/Uni/year3/324COM/teahcing plan.md",
             "mode": "preview"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "8743289091eb002c",
         "type": "leaf",
+        "dimension": 55.19528371407516,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "digital_garden/Uni/year3/345CT/1-professional-legal-ethical-issues-in-hacking.md",
+            "file": "digital_garden/Uni/year3/324COM/teahcing plan.md",
             "mode": "source"
           }
         },
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital_garden/Uni/year3/345CT/1-professional-legal-ethical-issues-in-hacking.md",
+                "file": "digital_garden/Uni/year3/324COM/teahcing plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +103,15 @@
   },
   "active": "8743289091eb002c",
   "lastOpenFiles": [
+    "digital_garden/Uni/year3/324COM/teahcing plan.md",
+    "digital_garden/Uni/year3/345CT/Lesson notes/1-professional-legal-ethical-issues-in-hacking.md",
+    "digital_garden/Uni/year3/345CT/general notes/assessment planning.md",
+    "digital_garden/Uni/year3/350CT/Lesson Notes/1-security-operations.md",
+    "digital_garden/Uni/year3/345CT/general notes/Untitled.md",
     "digital_garden/Uni/year3/345CT/1-professional-legal-ethical-issues-in-hacking.md",
-    "digital_garden/coding/C++/pointers.md",
-    "digital_garden/coding/C++/references.md",
-    "digital_garden/Uni/year3/345CT/assessment.md",
-    "digital_garden/Uni/year3/345CT/2-penetration-testing-methodology.md",
-    "digital_garden/C++/classes.md",
-    "digital_garden/Uni/year3/345CT/4-scanning-vuln-assessment.md",
-    "digital_garden/Uni/year3/345CT/1-professional-legal-ethical-issues.md",
-    "digital_garden/Uni/year3/README.md",
-    "digital_garden/Uni/345/1-professional-legal-ethical-issues.md"
+    "digital_garden/Uni/year3/324COM/Untitled.md",
+    "digital_garden/Uni/year3/324COM/1-security-by-design.md",
+    "digital_garden/Uni/year3/350CT/1-security-operations.md",
+    "digital_garden/Uni/year3/303COM/week1.md"
   ]
 }

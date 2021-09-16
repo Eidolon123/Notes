@@ -89,13 +89,76 @@ While it is okay to specialise in specific areas, all ethical hackers should pos
 
 
 
-## computer_misuse_act
+## laws
+
+Where the impact of the crime is, is who will be chasing you down. for example if a British national hacks into a US server, the British national would have to be extradited to the US for prosecution.
+
+### common_law
+
+-	uk
+-	us
+-	australia
+-	canada
+
+the desision on the case is decided by a jury of common people. Judge then decided scentence if guilty
+
+### civil_law
+
+-	germany
+-	france
+-	etc
+
+In this system the judge decides if the defendant is guilty
+
+### islamic_law
+
+-	some Muslim countries
+
+### uk_law
+
+#### computer_misuse_act 1990, 2006, 2015
+
+##### relevant_sections
+-	unauthorised_access
+	-	The prosecution must be able to prove the defendant was aware that they were not authorised and had an intent.
+	-	Max prison sentence 12 months / unlimited fine.
+
+-	unauthorised_access_with_intent_to_commit_or_facilitate_commission_of_further_offenses
+
+	-	The prosecution must be able to prove the defendant carried out the attack to further some other criminal intention (theft, etc).
+
+	-	Max prison of 12 months for summary or 5 years for an indictment (an/or fine).
+
+>A summary is for a non serious crime, if more serious it goes to indictment.
+
+-	unauthorised_modification_of_computer_material
+
+	-	This covers the intentional distrubution of malware.
+
+	-	max prison of 12 months
+-	Unauthorised act in relation to a computer results, directly or indirectly, in serious damage to the economy, the environment, national security or human welfare, or a significant risk of such damage
+
+	-	This aims to protect UK infrastructure, national security  and economy.
+	-	max sentence of 14 years, can go up to life if risk of life involved
+
+#### human_rights_act 1998 (article 8)
 
 
 
-## general_data_protection_regulation
+#### regulation_of_investifatory_powers_act
+
+#### investigatory powers act
+
+#### communications act
+
+-	section 127(1) covers offensive and threatening messages sent of a public electronic communications network (email, social engineering etc)
+-	section 127(2)
+
+#### data protection act
+
+#### general_data_protection_regulation
 
 
 
-## other
+### other
 
