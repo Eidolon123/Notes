@@ -6,28 +6,13 @@
       {
         "id": "0639f850b4b24637",
         "type": "leaf",
-        "dimension": 44.80471628592483,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "digital_garden/Uni/year3/324COM/teahcing plan.md",
-            "mode": "preview"
-          }
-        },
-        "group": "5923de1e5b84b996"
-      },
-      {
-        "id": "8743289091eb002c",
-        "type": "leaf",
-        "dimension": 55.19528371407516,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "digital_garden/Uni/year3/324COM/teahcing plan.md",
+            "file": "digital_garden/Uni/year3/345CT/Lesson notes/1-professional-legal-ethical-issues-in-hacking.md",
             "mode": "source"
           }
-        },
-        "group": "5923de1e5b84b996"
+        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "826f3f577e2ead28",
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital_garden/Uni/year3/324COM/teahcing plan.md",
+                "file": "digital_garden/Uni/year3/345CT/Lesson notes/1-professional-legal-ethical-issues-in-hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,16 +87,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8743289091eb002c",
+  "active": "0639f850b4b24637",
   "lastOpenFiles": [
-    "digital_garden/Uni/year3/324COM/teahcing plan.md",
     "digital_garden/Uni/year3/345CT/Lesson notes/1-professional-legal-ethical-issues-in-hacking.md",
     "digital_garden/Uni/year3/345CT/general notes/assessment planning.md",
+    "digital_garden/Uni/year3/324COM/1-security-by-design.md",
+    "digital_garden/Uni/year3/324COM/teahcing plan.md",
     "digital_garden/Uni/year3/350CT/Lesson Notes/1-security-operations.md",
     "digital_garden/Uni/year3/345CT/general notes/Untitled.md",
     "digital_garden/Uni/year3/345CT/1-professional-legal-ethical-issues-in-hacking.md",
     "digital_garden/Uni/year3/324COM/Untitled.md",
-    "digital_garden/Uni/year3/324COM/1-security-by-design.md",
     "digital_garden/Uni/year3/350CT/1-security-operations.md",
     "digital_garden/Uni/year3/303COM/week1.md"
   ]

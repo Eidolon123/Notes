@@ -95,17 +95,17 @@ Where the impact of the crime is, is who will be chasing you down. for example i
 
 ### common_law
 
--	uk
--	us
--	australia
--	canada
+-	UK
+-	US
+-	Australia
+-	Canada
 
-the desision on the case is decided by a jury of common people. Judge then decided scentence if guilty
+The decision on the case is decided by a jury of common people. Judge then decided sentence if guilty
 
 ### civil_law
 
--	germany
--	france
+-	Germany
+-	France
 -	etc
 
 In this system the judge decides if the defendant is guilty
@@ -141,24 +141,67 @@ In this system the judge decides if the defendant is guilty
 	-	This aims to protect UK infrastructure, national security  and economy.
 	-	max sentence of 14 years, can go up to life if risk of life involved
 
+
+##### amendments
+
+-	2006
+	-	To comply with the European Convention on Cyber Crime  
+	-	Increased maximum penalties  
+	-	Made clear that DoS is a crime  
+	-	Made the development/distribution or use of hacking tools illegal  
+		-	if there is an intent to commit or assist in the commission of a crime  
+	-	that covers virtually every tool that an ethical hacker will use
+
+
 #### human_rights_act 1998 (article 8)
 
+Article 8 is the most relevant section of the human rights act as it involves peoples privacy and family life.
 
+> Private life means that a human has the right to live their life privately without government interference.
 
-#### regulation_of_investifatory_powers_act
+-	Everyone has the right to respect for their private family life and correspondence.
+-	This can only be infringed when it is to:
+	-	protect national security
+	-   protect public safety
+	-   protect the economy
+	-   protect health or morals
+	-   prevent disorder or crime, or
+	-   protect the rights and freedoms of other people.
 
-#### investigatory powers act
+> It can be easy to violate the first clause of article 8 (the right to privacy in correspondence) when performing network-level snooping to access user passwords etc.
 
-#### communications act
+#### regulation_of_investigatory_powers_act
+
+Mainly gives law enforcement and security services greater power of surveillance.
+-	If law enforcement asks for your passwords and encryption keys you are required to give them, automatically guilty if you do not (2-3 years).
+
+##### ripa_and_hackers
+
+-	If performing traffic interception, get explicit written permission in the rules of engagement.
+-	Be very careful about what you intercept on other peoples networks (wired, wireless, Bluetooth)
+-	
+
+#### investigatory_powers_act_2016
+
+**Snoopers Charter**
+
+Allows the UK authorities to run wild by:
+-	bulk collecting communications data
+-	targeted and bulk interception of communications
+-	targeted and bulk equipment interference (hacking)
+
+Requires CSP to retain connection records for 1 year.
+
+It can be harder to perform these actions on journalists, lawyers and doctors.
+
+#### communications_act
 
 -	section 127(1) covers offensive and threatening messages sent of a public electronic communications network (email, social engineering etc)
--	section 127(2)
+-	section 127(2) covers causing annoyance by sending messages known to be false (hoax calls, email).
+> Should be careful when targeting employees.
 
-#### data protection act
+#### data_protection_act
+
+Governs the protection of personal data in the UK
 
 #### general_data_protection_regulation
-
-
-
-### other
-
