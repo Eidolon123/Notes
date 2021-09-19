@@ -144,12 +144,12 @@ SOC will create, implement and enforce organisation security policies.
 ## defense in depth
 
 -	layering security of infrastructure and information
--	stating with the asset in the centre, build a layer upon layer of security enforcement (policy/processes/tools/etc)
+-	starting with the asset in the centre, build a layer upon layer of security enforcement (policy/processes/tools/etc)
 -	need to still monitor those defenses
 	-	tools:
 		-	vuln scanners
 		-	behavioral monitors
-		-	IDS
+		-	IDS - Intrusion Detection System
 
 ### monitoring infrastructure
 

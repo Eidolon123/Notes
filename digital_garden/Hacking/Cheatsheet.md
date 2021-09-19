@@ -1,37 +1,10 @@
 
-# Cheatsheet
-
----
-
-- [Cheatsheet](#cheatsheet)
-  - [Nmap](#nmap)
-    - [Check for vulns with scan](#check-for-vulns-with-scan)
-    - [Enumerate SMB shares](#enumerate-smb-shares)
-    - [List mounts available on a NFS](#list-mounts-available-on-a-nfs)
-  - [Metasploit](#metasploit)
-    - [Start Metasploit](#start-metasploit)
-    - [List sessions](#list-sessions)
-    - [Search for and use module from nmap vuln scan](#search-for-and-use-module-from-nmap-vuln-scan)
-    - [Change reverse shell to metapreter shell](#change-reverse-shell-to-metapreter-shell)
-      - [Useful metapreter commands](#useful-metapreter-commands)
-    - [Generate reverse shell as windows executable](#generate-reverse-shell-as-windows-executable)
-  - [Hashcat](#hashcat)
-    - [Identify Hash](#identify-hash)
-    - [Common hash types](#common-hash-types)
-    - [Crack MD5 hash with rockyou](#crack-md5-hash-with-rockyou)
-  - [Gobuster](#gobuster)
-    - [List directories and files](#list-directories-and-files)
-  - [SQLMap](#sqlmap)
-    - [Discover database names](#discover-database-names)
-    - [Show tables in database](#show-tables-in-database)
-    - [Enum table in database](#enum-table-in-database)
-  - [Windows](#windows)
-    - [Stop a service](#stop-a-service)
-    - [Start a service](#start-a-service)
-
----
-
 ## General Linux stuff
+
+
+### path_poisoning
+
+`export PATH=<directory_with_poison>:$PATH`
 
 ### SUDO
 

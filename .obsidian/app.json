@@ -36,7 +36,17 @@
     "pentests",
     "islamic",
     "decrypt",
-    "decrypting"
+    "decrypting",
+    "ripa",
+    "organisational",
+    "metapreter",
+    "Hashcat",
+    "Gobuster",
+    "SQLMap",
+    "Enum",
+    "privs",
+    "ciso",
+    "bruteforce"
   ],
   "alwaysUpdateLinks": true
 }

@@ -1,11 +1,11 @@
 {
   "collapse-filter": true,
-  "search": "path:digital_garden/Uni/year3/345CT",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:digital_garden/Uni",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:digital_garden/C++",
+      "query": "path:digital_garden/coding/c++",
       "color": {
         "a": 1,
         "rgb": 16449791
@@ -26,13 +26,6 @@
       "color": {
         "a": 1,
         "rgb": 15204147
-      }
-    },
-    {
-      "query": "path:/",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
       }
     }
   ],
@@ -46,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.2414543899483106,
+  "scale": 0.3213363860503599,
   "close": true
 }

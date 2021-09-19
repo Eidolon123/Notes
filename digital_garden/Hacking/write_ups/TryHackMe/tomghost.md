@@ -44,11 +44,11 @@ user.txt is in merlin home folder
 
 sudo -l shows us we can run `zip` as root.
 
-![[sudo-l.png]]
+![[digital_garden/images/write_ups/tomghost/sudo-l.png]]
 
 GTFObins give us an easy path to root.
 
-![[rooted_and_booted.png]]
+![[digital_garden/images/write_ups/tomghost/rooted_and_booted.png]]
 
 ## Notes
 

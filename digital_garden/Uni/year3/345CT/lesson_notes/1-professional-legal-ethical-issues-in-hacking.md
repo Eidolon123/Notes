@@ -133,7 +133,7 @@ In this system the judge decides if the defendant is guilty
 
 -	unauthorised_modification_of_computer_material
 
-	-	This covers the intentional distrubution of malware.
+	-	This covers the intentional distribution of malware.
 
 	-	max prison of 12 months
 -	Unauthorised act in relation to a computer results, directly or indirectly, in serious damage to the economy, the environment, national security or human welfare, or a significant risk of such damage
@@ -194,7 +194,7 @@ Requires CSP to retain connection records for 1 year.
 
 It can be harder to perform these actions on journalists, lawyers and doctors.
 
-#### communications_act
+#### communications_act_2003
 
 -	section 127(1) covers offensive and threatening messages sent of a public electronic communications network (email, social engineering etc)
 -	section 127(2) covers causing annoyance by sending messages known to be false (hoax calls, email).
@@ -202,6 +202,40 @@ It can be harder to perform these actions on journalists, lawyers and doctors.
 
 #### data_protection_act
 
-Governs the protection of personal data in the UK
+Governs the protection of personal data in the UK.
+-	its purpose is to ensure that the information stored on individuals is:
+	-	correct and up to date
+	-	not being misused
 
-#### general_data_protection_regulation
+Second guiding principal:
+
+Personal data shall be obtained only for one or more specified and lawful purposes,  
+and shall not be further processed in any manner incompatible with that purpose or  
+those purposes.
+
+Data registered under the DPA cannot be used for the purpose of security testing. If there is a violation of the DPA the client will be liable not you.
+
+#### general_data_protection_regulation_2018
+
+
+
+##### principals
+
+Official:
+
+(data should be)
+-	processed lawfully and fairly in a transparent manner
+-	collected for a specific, explicit and legitimate purpose and not further processed in a manner that is incompatible with those purposes
+-	adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed
+-	accurate and kept up to date where necessary
+-	kept in a form which permits identification of data subjects for no longer than necessary for the purposes for which the personal data are processed
+-	processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate  technical or organisational measures
+
+summary:
+
+-	data should be processed lawfully and fairly, must be transparent.
+-	data needs to be collected for a legitimate, specific, explicit purpose. Any processing beyond this purpose is unlawful.
+-	data should be limited to what is relevant to the purpose of the data.
+-	data should always be accurate and up to date.
+-	If the data is in a form that can ID the data subject it should only be kept that way for however long is absolutely necessary.
+-	When data is processed it should be have appropriate security measures in place against damage, loss or unauthorised/unlawful processing.
