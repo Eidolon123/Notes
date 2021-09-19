@@ -1,6 +1,6 @@
 ## recon
 
-![[nmap.png]]
+![[digital_garden/images/write_ups/bounty_hunter/nmap.png]]
 
 - ftp on 21
 - ssh on 22
