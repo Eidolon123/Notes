@@ -39,7 +39,7 @@ Checking the file `walrus_and_the_carpenter.py` shows us that it is importing th
 
 ![[walrus_random.png]]
 
-We can create our own random.py that the file will read first before the one in `/var/lib/` that spawns us a shell as user rabbit.
+We can create our own random.py that the file will read first before the one in `/var/lib/` that throws us a shell we have to catch with a listener as user rabbit.
 
 ### Create random.py to throw shell as rabbit to listener.
 
@@ -76,7 +76,11 @@ Inside hatters home directory is a file `password.txt`. This can be used to SSH 
 
 ### Run linpeas on target machine, shows pearl as able to set SUID bit
 
+![[linpeas_output.png]]
+
 #### GTFO bins for pearl, use cap_set payload 
+
+![[perl_setuid.png]]
 
 ##### read root.txt in /home/alice/ and user.txt in /home/root/ (everything is upside down here)
 
@@ -85,4 +89,4 @@ Inside hatters home directory is a file `password.txt`. This can be used to SSH 
 
 alice password: HowDothTheLittleCrocodileImproveHisShiningTail
 
-hatter password: 
+hatter password: WhyIsARavenLikeAWritingDesk?

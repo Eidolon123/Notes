@@ -34,7 +34,9 @@
     "centre",
     "vuln",
     "pentests",
-    "islamic"
+    "islamic",
+    "decrypt",
+    "decrypting"
   ],
   "alwaysUpdateLinks": true
 }
