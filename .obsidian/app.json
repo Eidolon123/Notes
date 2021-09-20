@@ -46,7 +46,12 @@
     "Enum",
     "privs",
     "ciso",
-    "bruteforce"
+    "bruteforce",
+    "pentester",
+    "wasn",
+    "neighbour",
+    "weren",
+    "hotfix"
   ],
   "alwaysUpdateLinks": true
 }
