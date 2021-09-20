@@ -4,15 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "699012641a3b21d8",
+        "id": "9ab851588ab25931",
         "type": "leaf",
+        "dimension": 46.42070484581498,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "digital_garden/hacking/write_ups/TryHackMe/overpass.md",
+            "file": "digital_garden/Uni/year3/324COM/1-security-by-design.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ec61bdacca8944aa"
+      },
+      {
+        "id": "699012641a3b21d8",
+        "type": "leaf",
+        "dimension": 53.579295154185026,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "digital_garden/Uni/year3/324COM/1-security-by-design.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "ec61bdacca8944aa"
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3925f3912892f9a6",
@@ -68,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital_garden/hacking/write_ups/TryHackMe/overpass.md",
+                "file": "digital_garden/Uni/year3/324COM/1-security-by-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +104,15 @@
   },
   "active": "699012641a3b21d8",
   "lastOpenFiles": [
+    "digital_garden/Uni/year3/324COM/1-security-by-design.md",
+    "digital_garden/Uni/year3/324COM/2-.md",
+    "digital_garden/Hacking/Cheatsheet.md",
+    "digital_garden/Uni/year3/324COM/Untitled.md",
+    "digital_garden/Uni/year3/324COM/teahcing plan.md",
+    "digital_garden/Hacking/write_ups/TryHackMe/overpass.md",
     "digital_garden/hacking/write_ups/TryHackMe/overpass.md",
     "digital_garden/hacking/cheatsheet.md",
     "digital_garden/images/write_ups/overpass/overpass_about_uss.png",
-    "digital_garden/hacking/write_ups/TryHackMe/tomghost.md",
-    "digital_garden/hacking/write_ups/TryHackMe/Untitled.md",
-    "digital_garden/hacking/write_ups/TryHackMe/bounty_hunter.md",
-    "Pasted image 20210919143601.png",
-    "digital_garden/uni/catagorised_notes/laws.md",
-    "digital_garden/uni/catagorised_notes/socs.md",
-    "digital_garden/uni/catagorised_notes/monitoring.md"
+    "digital_garden/hacking/write_ups/TryHackMe/tomghost.md"
   ]
 }

