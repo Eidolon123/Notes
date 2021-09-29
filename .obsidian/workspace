@@ -9,21 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "digital_garden/Uni/year3/345CT/labs/1-you_be_the_judge.md",
+            "file": "digital_garden/Uni/year3/345CT/lesson_notes/2-penetration-testing-methodology.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "0c4989180b2a96a6"
       },
       {
-        "id": "da6e3ba1b0c4d9df",
+        "id": "d5dbe34a51176325",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "digital_garden/Uni/catagorised_notes/laws.md",
+            "file": "digital_garden/Uni/year3/345CT/lesson_notes/2-penetration-testing-methodology.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "0c4989180b2a96a6"
       }
     ],
     "direction": "vertical"
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital_garden/Uni/year3/345CT/labs/1-you_be_the_judge.md",
+                "file": "digital_garden/Uni/year3/345CT/lesson_notes/2-penetration-testing-methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +101,15 @@
   },
   "active": "699012641a3b21d8",
   "lastOpenFiles": [
-    "digital_garden/Uni/year3/345CT/labs/1-you_be_the_judge.md",
-    "digital_garden/TODO.md",
-    "README.md",
-    "digital_garden/Uni/catagorised_notes/laws.md",
-    "digital_garden/Uni/year3/345CT/labs/Untitled.md",
-    "digital_garden/Uni/year3/345CT/lesson_notes/1-professional-legal-ethical-issues-in-hacking.md",
     "digital_garden/Uni/year3/345CT/lesson_notes/2-penetration-testing-methodology.md",
-    "digital_garden/Hacking/write_ups/TryHackMe/overpass.md",
-    "digital_garden/Hacking/write_ups/TryHackMe/bounty_hunter.md",
-    "digital_garden/Uni/year3/324COM/1-security-by-design.md"
+    "digital_garden/Uni/year3/345CT/labs/Untitled.md",
+    "digital_garden/Hacking/Cheatsheet.md",
+    "digital_garden/Hacking/write_ups/comsec/Untitled.md",
+    "digital_garden/TODO.md",
+    "digital_garden/Hacking/write_ups/TryHackMe/relevent.md",
+    "digital_garden/Hacking/write_ups/TryHackMe/tomghost.md",
+    "Untitled.md",
+    "digital_garden/Uni/year3/350CT/labs/1.md",
+    "digital_garden/Uni/catagorised_notes/monitoring.md"
   ]
 }

