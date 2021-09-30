@@ -1,6 +1,6 @@
 ## recon
 
-### nmap_scan
+### Nmap Scan
 ![[alice-wonderland-nmap.png]]
 > Nmap scan of target box
 
@@ -9,7 +9,7 @@ Ports open:
 -	80 (Web Server)
 
 
-### directory scanning
+### Directory Scanning
 
 Scanning for directories on the webserver leads to `http://<ip>/r/a/b/b/i/t/`.
 

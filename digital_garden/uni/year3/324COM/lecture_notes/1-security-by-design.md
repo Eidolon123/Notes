@@ -2,7 +2,7 @@
 
 be able to look at different examples of code and understand what is happening.
 
-## secure_programming_vs_programming_for_security
+## Secure Programming vs Programming For Security
 
 Secure programming involves fixing exploitable errors in code.
 
@@ -13,11 +13,11 @@ programming for security involves incorporating security features such as:
 
 Incorporating these features does not guarantee security.
 
-### what_does_guarantee_security?
+### What Does Guarantee Security?
 
 Nothing really can guarantee security. Secure and defensive programming can just help to increase the security of the system.
 
-## defensive_programming
+## Defensive Programming
 
 A strategy to address logic and runtime bugs or errors. This does not make it a byproduct of secure programming. It helps but is not its primary objective.
 
@@ -29,6 +29,3 @@ A strategy to address logic and runtime bugs or errors. This does not make it a 
 -	logic error
 	-	can be a security issue
 	-	most difficult to detect
-
-
-## 

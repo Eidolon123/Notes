@@ -1,16 +1,16 @@
 ## information_security
 
-### CIA_triage
+### CIA Triage
 
 Not the CIA (American spy agency), abbreviation of the three main factors of information security.
 
 ![[cia-triad.png]]
 
-#### confidentiality
+#### Confidentiality
 
 Ensuring information is only disclosed and available to those with the authority to see and use it.
 
-#### integrity
+#### Integrity
 
 -	Preventing the modification of data by unauthorised personnel.
 -	Preventing unintentional modification of data by unauthorised personnel.
@@ -19,11 +19,11 @@ Ensuring information is only disclosed and available to those with the authority
 	-	External: Logical connection between the objects in the real world and their representations in the system.
 	-	Data can be said to be internally and externally consistent when a given input provides the exact expected output. Having unauthorised modifications to the data could result in a non expected output from the same input.
 
-#### availability
+#### Availability
 
 Guaranteeing that authorised users have uninterrupted access to the system/information.
 
-### other_factors
+### Other Factors
 
 -	Authenticity: Confirming the origin and identity of info source.
 -	Identification: confirming the users identity.
@@ -33,17 +33,17 @@ Guaranteeing that authorised users have uninterrupted access to the system/infor
 -	Privacy: The protection of information that could identify a user.
 -	Organisational security policy: A **high level** statement of the structure, processes and mechanisms covering information security.
 
-## threats_and_ethical_hackers
+## Threats And Ethical Hackers
 
-### threats
+### Threats
 
 Cyber attacks can be separated into three main categories:
 
-#### technical_attacks
+#### Technical Attacks
 
 An attack from an outside source, usually targeting vulnerabilities in systems employed by the target organisation.
 
-#### social_engineering
+#### Social Engineering
 
 An attack that targets the employees of a company through various tactics:
 
@@ -54,15 +54,15 @@ An attack that targets the employees of a company through various tactics:
 -	Scareware: Where the target is shown lots of false alarms and notifications in order to convince them that their machine has already been compromised. The attackers then use this to get the target to install software that actually compromises the machine. This attack technique works best on less technologically literate people.
 
 
-#### insider_threats
+#### Insider Threats
 
 An attack that misuses the trust relations within an organisation (rogue actor).
 
-### ethical_hackers
+### Ethical Hackers
 
 The difference between a white hat and black hat is that white hats have permission to do what they do and comply with all the relevant laws and regulations. When executing pen tests or red team attacks it is vital that the ethical hacker stay within organised scope. An ethical hacker also acts within the best interest of the organisation and treats all information discovered as confidential ([[#confidentiality]]).
 
-#### how_it_works
+#### How it Works
 
 Before a pen test takes place a formal contract with the client will be agreed upon. This contract will lay out several aspects of the pen test: (Covered more in week2).
 
@@ -71,11 +71,11 @@ Before a pen test takes place a formal contract with the client will be agreed u
 -	Black-box
 	-	Hacker is given no information about the box in order to simulate a real-world attack much more closely.
 
-#### skills
+#### Skills
 
 Hackers will often need to have a base knowledge of the full span of digital technologies as clients could be using anything in their setups. This need for a broad knowledge base is why ethical hacking is usually a team effort. Each member of the team will specialise in one or two aspects of ethical hacking and as a team will be able to deal with any situation they find in the field.
 
-##### soft_skills
+##### Soft Skills
 
 While it is okay to specialise in specific areas, all ethical hackers should posses the correct soft skills to enable them to act efficiently in a team setting.
 
@@ -85,15 +85,15 @@ While it is okay to specialise in specific areas, all ethical hackers should pos
 -	Problem Management
 -	Report Writing
 
-## security_clearance
+## Security Clearance
 
 
 
-## laws
+## Laws
 
 Where the impact of the crime is, is who will be chasing you down. for example if a British national hacks into a US server, the British national would have to be extradited to the US for prosecution.
 
-### common_law
+### Common Law
 
 -	UK
 -	US
@@ -102,7 +102,7 @@ Where the impact of the crime is, is who will be chasing you down. for example i
 
 The decision on the case is decided by a jury of common people. Judge then decided sentence if guilty
 
-### civil_law
+### Civil Law
 
 -	Germany
 -	France
@@ -110,15 +110,15 @@ The decision on the case is decided by a jury of common people. Judge then decid
 
 In this system the judge decides if the defendant is guilty
 
-### islamic_law
+### Islamic Law
 
 -	some Muslim countries
 
-### uk_law
+### UK Law
 
-#### computer_misuse_act 1990, 2006, 2015
+#### Computer Misuse Act 1990, 2006, 2015
 
-##### relevant_sections
+##### Relevant Sections
 -	unauthorised_access
 	-	The prosecution must be able to prove the defendant was aware that they were not authorised and had an intent.
 	-	Max prison sentence 12 months / unlimited fine.
@@ -142,7 +142,7 @@ In this system the judge decides if the defendant is guilty
 	-	max sentence of 14 years, can go up to life if risk of life involved
 
 
-##### amendments
+##### Amendments
 
 -	2006
 	-	To comply with the European Convention on Cyber Crime  
@@ -153,7 +153,7 @@ In this system the judge decides if the defendant is guilty
 	-	that covers virtually every tool that an ethical hacker will use
 
 
-#### human_rights_act 1998 (article 8)
+#### Human Rights Act 1998 (article 8)
 
 Article 8 is the most relevant section of the human rights act as it involves peoples privacy and family life.
 
@@ -170,18 +170,18 @@ Article 8 is the most relevant section of the human rights act as it involves pe
 
 > It can be easy to violate the first clause of article 8 (the right to privacy in correspondence) when performing network-level snooping to access user passwords etc.
 
-#### regulation_of_investigatory_powers_act
+#### Regulation of Investigatory Powers Act (RIPA)
 
 Mainly gives law enforcement and security services greater power of surveillance.
 -	If law enforcement asks for your passwords and encryption keys you are required to give them, automatically guilty if you do not (2-3 years).
 
-##### ripa_and_hackers
+##### RIPA and hackers
 
 -	If performing traffic interception, get explicit written permission in the rules of engagement.
 -	Be very careful about what you intercept on other peoples networks (wired, wireless, Bluetooth)
 -	
 
-#### investigatory_powers_act_2016
+#### Investigatory Powers Act 2016
 
 **Snoopers Charter**
 
@@ -194,13 +194,13 @@ Requires CSP to retain connection records for 1 year.
 
 It can be harder to perform these actions on journalists, lawyers and doctors.
 
-#### communications_act_2003
+#### Communications Act 2003
 
 -	section 127(1) covers offensive and threatening messages sent of a public electronic communications network (email, social engineering etc)
 -	section 127(2) covers causing annoyance by sending messages known to be false (hoax calls, email).
 > Should be careful when targeting employees.
 
-#### data_protection_act
+#### Data Protection Act
 
 Governs the protection of personal data in the UK.
 -	its purpose is to ensure that the information stored on individuals is:
@@ -215,11 +215,16 @@ those purposes.
 
 Data registered under the DPA cannot be used for the purpose of security testing. If there is a violation of the DPA the client will be liable not you.
 
-#### general_data_protection_regulation_2018
+#### General Data Protection Regulation 2018
 
+##### Terms
 
+-	**Controller**
+	-	Says how and why personal data is processed (main legal obligations)
+-	**Processor**
+	-	Acts on behalf of the controller (legally obligated for the security of data)
 
-##### principals
+##### Principals
 
 Official:
 

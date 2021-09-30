@@ -1,13 +1,13 @@
-## pointers
+## Pointers
 
 Pointers are used to store memory addresses
 
-## creating_a_pointer
+## Creating a Pointer
 
 
 
-## dereferencing
+## Dereferencing
 
 
 
-## null_pointer
+## Null Pointer

@@ -1,4 +1,4 @@
-## create_a_reference
+## Create a Reference
 
 Creating a reference to a variable essentially creates an alias to it, it is like creating a copy but if something is done to the reference it is also done to the original. These aliases cannot be changed later on to reference anything else.
 
@@ -12,7 +12,7 @@ int &cinq = five;
 
 Now if an action is performed on `cinq` it will also affect the variable `five`.
 
-## pass-by-reference
+## Pass-by-reference
  Passing by reference is when parameters are passed to a function as references instead of the original variable (This is known as pass-by-value).
  
  This is done when we want to modify the value of the argument passed to the function. It also avoids the performance cost of creating copies of variables or objects for this purpose.
@@ -80,7 +80,7 @@ error: assignment of read-only reference ‘i’
 	i += i;
 ```
 
-## memory_addresses
+## Memory Addresses
 
 The `&` operator is used to create a reference but can also be used to get the address of an object.
 

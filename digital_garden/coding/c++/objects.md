@@ -1,10 +1,10 @@
-## objects
+## Objects
 
 An object is an instance of a class ([[classes]]), creating an object from a class is called **"instantiation"**.
 
 The object is the actual data worked with in the program.
 
-### instantiating_an_object
+### Instantiating an Object
 
 When an object is instantiated it will contain the attributes and methods declared in the class. ([[classes#declaring_the_class]])
 

@@ -12,6 +12,5 @@
 	-	Dashboards
 
 
-## What task of a SOC is most important to its Ethos?
+## What task of a SOC is most important to Ethos?
 
-I believe threat intelligence is the most important task of a SOC to its overall ethos. Having intelligence on a threat before it is an actual threat gives the SOC an upperhand

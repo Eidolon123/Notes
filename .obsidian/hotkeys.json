@@ -1,1 +1,11 @@
-{}
+{
+  "templater-obsidian:digital_garden/templates/pomodoro.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
+}

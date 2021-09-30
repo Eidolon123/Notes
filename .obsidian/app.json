@@ -56,7 +56,18 @@
     "upperhand",
     "webserver",
     "repo",
-    "backend"
+    "backend",
+    "destructors",
+    "templating",
+    "hpp",
+    "cpp",
+    "Nmap",
+    "behaviour",
+    "behavioural",
+    "analytics",
+    "checksums",
+    "Pomodoro"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "trashOption": "local"
 }

@@ -1,4 +1,4 @@
-## declaration_and_defining
+## Declaration and Defining
 
 To keep code clean and modular the declarations and definitions of functions are split into Multiple Files ([[general_concepts#Multiple Files]]).
 
@@ -17,7 +17,7 @@ void functionName(int param1, std::string param2){
 ```
 
 As seen in the above examples **camelCase** is used in function names as standard practice.
-## function_overloading
+## Function Overloading
 
 Functions can be named the same thing in order to take different data types as parameters. C++ will know what to do when passed the different types.
 
@@ -41,7 +41,7 @@ A function call of: `self_addition('A')` results in > `'AA'` being printed.
 
 A function call of: `self_addition(2)` results in > `4` being printed.
 
-## function_templates
+## Function Templates
 
 More efficient than overloading if the body of the function is the same
 
@@ -59,7 +59,7 @@ This function will now take any data type as long as it works with the function 
 
 Not shown in this example but the template will also work for return types.
 
-## inline_functions
+## Inline Functions
 
 Instead of defining a function in a **.cpp** file, if it is short and concise it can be defined **_inline_** in the **.hpp** header ([[general_concepts#Multiple Files#Header Files]]) file:
 
@@ -69,12 +69,12 @@ inline
 void function_name(int param1, std::string param2){ function body }
 ```
 
-## default_arguments
+## Default Arguments
 
 If a parameter will more than likely have the same argument passed to it everytime a default value can be defined in the function declaration.
 
 ```cpp
-void function_name(int param1, std:string param2 = "string")
+void function_name(int param1, std:string param2 = "string )
 ```
 
 When calling this function, if only 1 value is passed as an argument `function_name(4)` the code will not throw an error and use `"string"` as the second argument. 

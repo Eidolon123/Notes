@@ -181,6 +181,6 @@ p=subprocess.call(["/bin/sh","-i"])
 
 ## Windows
 
-### SeImpersonationPrivilege
+### Set Impersonation Privilege
 
 Allows a user to 

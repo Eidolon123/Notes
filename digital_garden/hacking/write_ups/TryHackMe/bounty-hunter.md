@@ -1,4 +1,4 @@
-## recon
+## Recon
 
 ![[bounty-nmap.png]]
 
@@ -61,7 +61,7 @@ Assume username for the system is `lin` and `locks.txt` is a list of possible pa
 
 ## User
 
-### nmap bruteforce ssh
+### Nmap bruteforce ssh
 
 Can use nmap scripting engine to bruteforce SSH login.
 

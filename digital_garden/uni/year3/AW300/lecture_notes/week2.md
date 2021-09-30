@@ -87,7 +87,3 @@ This was a self relective piece of writing about what we had covered during the 
 	- academic style
 	- layout
 	- grammatical soundness
-
-
-
-## Task 3: 

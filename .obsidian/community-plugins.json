@@ -5,5 +5,7 @@
   "dataview",
   "obsidian-kanban",
   "obsidian-mind-map",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-day-planner",
+  "templater-obsidian"
 ]

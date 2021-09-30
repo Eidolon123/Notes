@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c2991305fd974041",
+        "id": "1ce9f8b8be424608",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "digital_garden/uni/year3/324COM/lecture_notes/3-.md",
+            "file": "digital_garden/templates/pomodoro.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital_garden/uni/year3/324COM/lecture_notes/3-.md",
+                "file": "digital_garden/templates/pomodoro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,8 +78,52 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "c2991305fd974041",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea33ede2d03956a4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "digital_garden/templates/pomodoro.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e10f27070a2cc99f",
@@ -97,19 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 371
   },
-  "active": "c2991305fd974041",
+  "active": "1ce9f8b8be424608",
   "lastOpenFiles": [
-    "digital_garden/uni/year3/324COM/lecture_notes/3-.md",
-    "digital_garden/coding/c++/objects.md",
-    "digital_garden/coding/c++/classes.md",
-    "digital_garden/coding/c++/functions.md",
-    "digital_garden/coding/c++/Untitled Kanban.md",
-    "digital_garden/coding/c++/references.md",
-    "digital_garden/coding/c++/variables.md",
-    "digital_garden/coding/c++/pointers.md",
-    "digital_garden/coding/c++/general_concepts.md",
-    "digital_garden/uni/year3/AW300/lecture_notes/week2.md"
+    "digital_garden/templates/pomodoro.md",
+    "digital_garden/daily/2021-09-30.md",
+    "digital_garden/daily/2021-10-01.md",
+    "digital_garden/daily/pomodoro-timer.md",
+    "digital_garden/pomodoro_timer.md",
+    "Obsidoro.md",
+    "digital_garden/hacking/write_ups/TryHackMe/bounty-hunter.md",
+    "digital_garden/templates/Untitled.md",
+    "2021-09-30.md",
+    "Day Planners/Day Planner-20210930.md"
   ]
 }

@@ -1,6 +1,6 @@
 ## Recon
 
-### nmap scan
+### Nmap scan
 
 ![[tom-nmap-scan.png]]
 
@@ -8,7 +8,7 @@ nmap scan shows us that there is an SSH service on port 22, webserver on 8080 an
 
 ## Exploit
 
-### metasploit
+### Metasploit
 
 Searching metasploit for jserv exploits:
 
@@ -24,7 +24,7 @@ home directory contains `credential.pgp` file and `tryahckme.asc`. the `.asc` fi
 
 ![[tom-home-contents.png]]
 
-### cracking
+### Cracking
 
 john comes with a useful binary to convert the contents of the `.asc` file to something john can crack.
 
@@ -40,7 +40,7 @@ decrypting `credentials.pgp` file with new found password:
 
 user.txt is in merlin home folder
 
-## root
+## Root
 
 sudo -l shows us we can run `zip` as root.
 
