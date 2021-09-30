@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Uni/year3/350CT/labs/1.md",
+            "file": "Uni/year3/345CT/labs/2-design-a-pentest.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/year3/350CT/labs/1.md",
+                "file": "Uni/year3/345CT/labs/2-design-a-pentest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,23 +107,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "41829da80626e121",
   "lastOpenFiles": [
+    "Uni/year3/345CT/labs/2-design-a-pentest.md",
+    "Uni/year3/345CT/lesson_notes/2-penetration-testing-methodology.md",
+    "Uni/year3/345CT/labs/1-you_be_the_judge.md",
+    "Uni/year3/345CT/general_notes/assessment planning.md",
     "Uni/year3/350CT/labs/1.md",
     "Uni/year3/345CT/labs/week2.md",
-    "Uni/year3/345CT/labs/2-design-a-pentest.md",
     "Uni/year3/345CT/labs/Untitled.md",
-    "Uni/year3/345CT/labs/1-you_be_the_judge.md",
     "coding/C++/classes.md",
     "daily/2021-09-29.md",
-    "temps/daily.md",
-    "Hacking/write_ups/TryHackMe/overpass.md",
-    "Hacking/write_ups/TryHackMe/bounty_hunter.md"
+    "temps/daily.md"
   ]
 }
