@@ -1,0 +1,27 @@
+File Manipulation
+a) mkdir ~/207SE/JT207SE2021/ && chmod 0651 ~/207SE/JT207SE2021
+b) wget -O ~/207SE/JT207SE2021/tree.sh http://www.centerkey.com/tree/tree.sh && chmod 777 ~/207SE/JT207SE2021/tree.sh
+c) mkdir /Portfolio1-2021 /Portfolio2-2021
+d) mkdir Portfolio1-2021/P1-Lab{0..10} Portfolio2-2021/P2-Lab{11..20}
+e) touch Programming.txt && mv Programming.txt ./Portfolio1-2021/P1-Lab0
+f) ./tree.sh
+
+Mixed Linux Commands
+a) date && date -d '-10 year' && ncal 12 1999 && ncal -w -j
+b) resolveip os-5004cem.coventry.ac.uk
+c) whoami && users && w
+d) ps aux && top
+e) mesg -v n
+ 
+
+Document Manipulation
+a) touch Poem.txt && vim Poem.txt
+b) cksum Poem.txt
+c) 
+    i) grep -Eviw 'he|she$' Poem.txt
+    ii) grep -Eiw '(the.*also|also.*the)|(an.*also|also.*an)$' Poem.txt
+d) grep -i -B 3 king Poem.txt
+e) grep -Eiw 'the|an' Poem.txt | grep -Eicv 'the.*an|an.*then' && grep -Eiwn 'the.*an|an.*then' Poem.txt
+f) split -d --additional-suffix=.txt -l 4 -a 1 Poem.txt Poem
+g) sort Poem.txt | rev >> Poem2.txt
+h) alias SortRev="sort Poem.txt | rev >> Poem2.txt"

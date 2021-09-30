@@ -1,0 +1,5 @@
+Semaphore 16910919 initialized with path 'critical_example2.c'.
+Henry part 1: There's a hole in the bucket, dear Liza, dear Liza, there's a hole in the bucket, dear Liza, a hole.
+Henry part 2: With what shall I fix it, dear Liza, dear Liza? With what shall I fix it, dear Liza, with what?
+Henry part 3: The straw is too long, dear Liza, dear Liza, the straw is too long, dear Liza, too long.
+Henry part 4: With what shall I cut it, dear Liza, dear Liza? With what shall I cut it, dear Liza, with what?

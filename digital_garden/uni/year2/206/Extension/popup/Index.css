@@ -1,0 +1,67 @@
+html, body {
+    margin:0px !important;
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.hidden {
+display: none;
+}
+
+#title-section{
+    line-height: 50px;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    background: #2179f1;
+    height: 50px;
+}
+
+p.title{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    align-self: center;
+    margin: auto;
+    font: Open Sans;
+    font-size: 40px;
+    padding-left: 50px;
+}
+
+button.graphics_button{
+    border: none;
+    width: 80px;
+    margin: auto;
+    display: flex;
+    align-self: center;
+    vertical-align: auto;
+}
+button.graphics_button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+button.config{
+    border: none;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    height: 50px;
+    background: #2179f1;
+}
+button.config:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+button.scan{
+    border: none;
+    width: 80px;
+    margin: auto;
+    display: flex;
+    align-self: center;
+    vertical-align: auto;
+}
+
+button.scan:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }

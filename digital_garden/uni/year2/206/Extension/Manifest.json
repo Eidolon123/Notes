@@ -1,0 +1,24 @@
+{
+
+    "manifest_version": 2,
+    "name": "Web-Scanner",
+    "version": "1.0",
+  
+    "description": "Scans web pages for vulnerabilities",
+    "homepage_url": "https://github.coventry.ac.uk/thoma338/206CDE-CyberNova",
+    "icons": {
+        "96": "icons/border-96.png"
+      },
+  
+    "permissions": [
+        "<all_urls>",
+        "activeTab"
+      ],
+    
+      "browser_action": {
+        "default_icon": "icons/border-96.png",
+        "default_title": "Web Scanner",
+        "default_popup": "popup/Index.html"
+      },
+      "content_security_policy": "script-src 'self' 'unsafe-eval' https://www.gstatic.com/charts/loader.js; object-src 'self'"
+  }

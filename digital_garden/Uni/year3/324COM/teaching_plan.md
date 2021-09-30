@@ -1,5 +1,0 @@
-- intro to the module /  security by design 1
-- security by design 2 / 3
-- code analysis eyeballing / static analysis 1
-- static analysis 2 / 3
-- dynamic testing 1 / 2
