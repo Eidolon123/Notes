@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1ce9f8b8be424608",
+        "id": "f40d835300c337c7",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "digital_garden/uni/year2/245CT/report/report-fin.pdf"
+            "file": "digital_garden/uni/year3/350CT/catagorised_notes/tasks_of_the_soc/information-security-response.md",
+            "mode": "source"
           }
         }
       }
@@ -51,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3925f3912892f9a6",
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital_garden/uni/year2/245CT/report/report-fin.pdf",
+                "file": "digital_garden/uni/year3/350CT/catagorised_notes/tasks_of_the_soc/information-security-response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "digital_garden/uni/year2/245CT/report/report-fin.pdf",
+                "file": "digital_garden/uni/year3/350CT/catagorised_notes/tasks_of_the_soc/information-security-response.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,19 +142,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371
+    "width": 371,
+    "collapsed": true
   },
-  "active": "1ce9f8b8be424608",
+  "active": "f40d835300c337c7",
   "lastOpenFiles": [
-    "digital_garden/uni/year2/245CT/report/report-fin.pdf",
-    "digital_garden/uni/year2/245CT/report/report.md",
-    "digital_garden/uni/year2/245CT/report/NHS-Lanyard-pix.png",
-    "digital_garden/uni/year3/350CT/assessment/Untitled.md",
-    "digital_garden/uni/year3/AW300/catagorised_notes/Untitled.md",
-    "digital_garden/uni/year3/AW300/assessment/Untitled.md",
-    "digital_garden/uni/year3/324COM/catagorised_notes/Untitled.md",
-    "digital_garden/uni/year3/324COM/assessment/Untitled.md",
-    "digital_garden/templates/pomodoro.md",
-    "digital_garden/daily/2021-09-30.md"
+    "digital_garden/uni/year3/350CT/catagorised_notes/tasks_of_the_soc/information-security-response.md",
+    "digital_garden/daily/2021-10-01.md",
+    "digital_garden/uni/year3/350CT/catagorised_notes/socs.md",
+    "digital_garden/uni/year3/350CT/catagorised_notes/tasks_of_the_soc/monitoring.md",
+    "digital_garden/uni/year3/350CT/catagorised_notes/tasks_of_the_soc/threat-intelligence.md",
+    "digital_garden/uni/year3/350CT/catagorised_notes/policies-and-procedures.md",
+    "digital_garden/uni/year3/350CT/catagorised_notes/seim.md",
+    "digital_garden/uni/year3/350CT/lecture_notes/3-network-security-monitoring.md",
+    "digital_garden/uni/year3/350CT/catagorised_notes/information-security-response.md",
+    "Untitled.md"
   ]
 }

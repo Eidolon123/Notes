@@ -31,15 +31,15 @@ SOC will create, implement and enforce organisation security policies.
 
 ### Roles and responsibilities
 
--	monitoring
+-	[[monitoring]]
 	-	infrastructure
 	-	data
 	-	designed to be able to decide if something is a false pos or a threat
--	incident response
--	threat intel
--	risk management
--	info assurance
--	information security compliance
+-	[[incident-response]]
+-	[[threat-intelligence]]
+-	[[information-risk-managment]]
+-	[[information-assurance]]
+-	[[information-security-response]]
 -	security governance
 
 ### SOC team

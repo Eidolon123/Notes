@@ -68,7 +68,8 @@
     "checksums",
     "Pomodoro",
     "barcode",
-    "sig"
+    "sig",
+    "honeynet"
   ],
   "alwaysUpdateLinks": true,
   "trashOption": "local"
