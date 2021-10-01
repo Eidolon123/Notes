@@ -7,10 +7,9 @@
         "id": "1ce9f8b8be424608",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "digital_garden/templates/pomodoro.md",
-            "mode": "source"
+            "file": "digital_garden/uni/year2/245CT/report/report-fin.pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital_garden/templates/pomodoro.md",
+                "file": "digital_garden/uni/year2/245CT/report/report-fin.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "digital_garden/templates/pomodoro.md",
+                "file": "digital_garden/uni/year2/245CT/report/report-fin.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,15 +144,15 @@
   },
   "active": "1ce9f8b8be424608",
   "lastOpenFiles": [
+    "digital_garden/uni/year2/245CT/report/report-fin.pdf",
+    "digital_garden/uni/year2/245CT/report/report.md",
+    "digital_garden/uni/year2/245CT/report/NHS-Lanyard-pix.png",
+    "digital_garden/uni/year3/350CT/assessment/Untitled.md",
+    "digital_garden/uni/year3/AW300/catagorised_notes/Untitled.md",
+    "digital_garden/uni/year3/AW300/assessment/Untitled.md",
+    "digital_garden/uni/year3/324COM/catagorised_notes/Untitled.md",
+    "digital_garden/uni/year3/324COM/assessment/Untitled.md",
     "digital_garden/templates/pomodoro.md",
-    "digital_garden/daily/2021-09-30.md",
-    "digital_garden/daily/2021-10-01.md",
-    "digital_garden/daily/pomodoro-timer.md",
-    "digital_garden/pomodoro_timer.md",
-    "Obsidoro.md",
-    "digital_garden/hacking/write_ups/TryHackMe/bounty-hunter.md",
-    "digital_garden/templates/Untitled.md",
-    "2021-09-30.md",
-    "Day Planners/Day Planner-20210930.md"
+    "digital_garden/daily/2021-09-30.md"
   ]
 }

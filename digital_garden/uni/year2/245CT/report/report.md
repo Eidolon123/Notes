@@ -52,6 +52,7 @@ Sites such as Twitter and Instagram provide a feature that can aid a researcher 
 ![lanyard](NHS-Lanyard-pix.png)
 
 ![barcode](NHS-ID-pix.jpg)
+
 > Fully visible barcode for door entry or system login in this twitter post, along with department and full name.
 
     Discussion of the topic in the wider security context (What does it mean in terms of security, how common is it, how "dangerous" is the vulnerability)
