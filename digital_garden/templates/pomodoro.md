@@ -1,3 +1,0 @@
-- [ ] <% tp.user.timeNow() %> WORK
-- [ ]  <% tp.user.timeAfterWork() %> BREAK
-- [ ]   <% tp.user.timeAfterBreak() %> FINISHED

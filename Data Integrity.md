@@ -1,0 +1,6 @@
+-	Preventing the modification of data by unauthorised personnel.
+-	Preventing unintentional modification of data by unauthorised personnel.
+-	Preserving internal and external consistency.
+	-	Internal: Logical connection within the data.
+	-	External: Logical connection between the objects in the real world and their representations in the system.
+	-	Data can be said to be internally and externally consistent when a given input provides the exact expected output. Having unauthorised modifications to the data could result in a non expected output from the same input.

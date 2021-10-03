@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "foldHeading": true,
+  "vimMode": true,
+  "spellcheckDictionary": [
+    "hpp",
+    "cpp",
+    "dont"
+  ]
+}

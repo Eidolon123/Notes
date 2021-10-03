@@ -1,0 +1,1 @@
+The [[star]] at the centre of our [[Solar System]].

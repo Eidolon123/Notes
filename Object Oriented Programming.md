@@ -1,0 +1,1 @@
+This concept makes use of [[Classes]] and [[Objects]] to allow the user to represent complex [[Data Types]] and use them in programs. This is kind of the whole point of C++ over C.

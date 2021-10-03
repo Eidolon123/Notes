@@ -1,0 +1,2 @@
+- layering security of infrastructure and information
+- starting with the asset in the centre, build a layer upon layer of security enforcement (policy/processes/tools/etc)

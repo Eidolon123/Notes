@@ -1,0 +1,1 @@
+Hacker is given information such as WiFi passwords,  source code, network info and internal accounts. Gives the hacker a much broader view of the box and takes less time due to having the information already. Can be cheaper as well.

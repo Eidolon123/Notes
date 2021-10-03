@@ -1,0 +1,5 @@
+#### The Observe, Orient, Decide, Act Loop (OODA)
+
+![[The-OODA-Loop.png]]
+
+Often used in military applications, the OODA loop is designed to facilitate a fast and appropriate response to an incident. Care must be taken if using this approach to ensure the response is still appropriate and not just as fast as possible. 

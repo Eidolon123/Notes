@@ -1,0 +1,1 @@
+Our solar system is comprised of our star [[The Sun]] and all [[Orbital Body]]s orbiting it.

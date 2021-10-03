@@ -1,0 +1,1 @@
+Secure programming involves fixing exploitable errors in code.

@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "04369a07e949dc25",
+    "type": "split",
+    "children": [
+      {
+        "id": "2580dfdde81efe09",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tesst.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b69dab5cced31f24",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aeebb3c789893bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6154372965a75c2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74e2dcd9beebb48d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b65f3997955c74d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f5ea806789a6aa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dcc25a9272bcae5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tesst.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2580dfdde81efe09",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
