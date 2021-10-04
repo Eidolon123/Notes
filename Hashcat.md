@@ -1,4 +1,9 @@
+-----------------------------------------------
 # Hashcat
+Tags:  #Cheatsheet #Hacking #Tools
+Creation date: 2021-10-04
+
+-----------------------------------------------
 
 ### Identify Hash
 

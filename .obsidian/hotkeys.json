@@ -7,5 +7,14 @@
       ],
       "key": "P"
     }
+  ],
+  "templater-obsidian:Templates/New Note.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }

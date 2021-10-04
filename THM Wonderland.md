@@ -1,6 +1,13 @@
-## recon
+-----------------------------------------------
+# THM Wonderland
+Tags:  #Hacking #Writeup 
+Creation date: 2021-10-04
 
-### Nmap Scan
+-----------------------------------------------
+
+## [[recon]]
+
+### [[Nmap]] Scan
 ![[alice-wonderland-nmap.png]]
 > Nmap scan of target box
 
@@ -10,6 +17,8 @@ Ports open:
 
 
 ### Directory Scanning
+
+Using [[Gobuster]]
 
 Scanning for directories on the webserver leads to `http://<ip>/r/a/b/b/i/t/`.
 

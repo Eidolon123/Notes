@@ -1,6 +1,13 @@
-## Recon
+-----------------------------------------------
+# THM Overpass
+Tags:  #Hacking #Writeup 
+Creation date: 2021-10-04
 
-### NMAP
+-----------------------------------------------
+
+## [[Recon]]
+
+### [[Nmap]]
 
 ![[overpass-nmapscan.png]]
 
@@ -17,17 +24,19 @@
 
 #### Directory scan
 
+Using [[Gobuster]]
+
 ![[overpass-dir_scan.png]]
 
 ##### Admin
 
 Admin page has a login form.
 
-Hint on THM says not to bruteforce, and vector is in OWASP top 10. So either SQL injection or broken authentication.
+Hint on THM says not to bruteforce, and vector is in OWASP top 10. So either [[SQL injection]] or [[broken authentication]].
 
 ## User
 
-### SQLMap
+### [[SQLMap]]
 
 SQLmap didnt show any injection points even with level 5 risk 3.
 
@@ -77,7 +86,7 @@ use `ssh2john` to convert ssh key to hash for john:
 
 john output says the passphrase for the ssh key is `james13`.
 
-#### SSH
+#### [[SSH]]
 
 Can now SSH into the machine using the RSA key and passphrase from john.
 
@@ -89,7 +98,7 @@ flag is in landing directory.
 
 ## Root
 
-Nothing interesting in terms of SUID files and cant run any sudo commands due to lack of system password.
+Nothing interesting in terms of [[SUID]] files and cant run any [[sudo]] commands due to lack of system password.
 
 Home directory contains a TODO.txt file containing:
 

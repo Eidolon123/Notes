@@ -1,3 +1,10 @@
+-----------------------------------------------
+# Errors
+Tags:  #Coding #Security
+Creation date: 2021-10-04
+
+-----------------------------------------------
+
 - syntax error
 	- not a security issue
 - runtime error

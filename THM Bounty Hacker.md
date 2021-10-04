@@ -1,4 +1,13 @@
-## Recon
+-----------------------------------------------
+# THM Bounty Hacker
+Tags:  #Hacking #Writeup
+Creation date: 2021-10-04
+
+-----------------------------------------------
+
+## [[Recon]]
+
+[[Nmap]] scan:
 
 ![[bounty-nmap.png]]
 
@@ -7,11 +16,12 @@
 - http on 80
 
 ### HTTP server
+
 ![[bounty-web-landing.png]]
 
 Nothing interesting in source code and directory scan shows nothing either. Assume dead-end.
 
-### FTP server
+### [[FTP]] server
 
 has anon login
 
@@ -72,6 +82,8 @@ user/pass combo is: lin:RedDr4gonSynd1cat3
 user flag in landing directory.
 
 ## Root
+
+### Abusing [[sudo]]
 
 Running `sudo -l` as lin shows us we can run `tar` as root user.
 

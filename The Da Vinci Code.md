@@ -1,3 +1,10 @@
+-----------------------------------------------
+# The Da Vinci Code
+Tags:  #Literature #Personal
+Creation date: 2021-10-04
+
+-----------------------------------------------
+
 The Da Vinci Code is a book I started reading on 29/09/2021. It is a [[thriller]] / [[drama]] written by [[Dan Brown]] and published in 2003.
 
 So far it has covered themes of [[Cryptography]], [[Paganism]], [[symbolism]], and [[religion]], specifically [[Christianity]]. The [[Opus Dei]] section of the [[Catholic Church]] and the secret society [[Priory of Sion]], of which [[Leonardo da Vinci]] was a member, feature heavily. [[Leonardo da Vinci]]s works feature heavily in the book also.

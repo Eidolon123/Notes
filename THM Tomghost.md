@@ -1,6 +1,13 @@
-## Recon
+-----------------------------------------------
+# THM Tomghost
+Tags:  #Hacking #Writeup 
+Creation date: 2021-10-04
 
-### Nmap scan
+-----------------------------------------------
+
+## [[Recon]]
+
+### [[Nmap]] scan
 
 ![[tom-nmap-scan.png]]
 
@@ -8,7 +15,7 @@ nmap scan shows us that there is an SSH service on port 22, webserver on 8080 an
 
 ## Exploit
 
-### Metasploit
+### [[Metasploit]]
 
 Searching metasploit for jserv exploits:
 
@@ -18,7 +25,7 @@ output of loot from metasploit attack:
 
 ![[tom-meta-loot.png]]
 
-## SSH into machine
+## [[SSH]] into machine
 
 home directory contains `credential.pgp` file and `tryahckme.asc`. the `.asc` file contains a private pgp key used to decrypt the `.gpg` file. Need to copy them to local machine using SCP to crack the passphrase attached to the `.asc` file.
 
@@ -26,7 +33,7 @@ home directory contains `credential.pgp` file and `tryahckme.asc`. the `.asc` fi
 
 ### Cracking
 
-john comes with a useful binary to convert the contents of the `.asc` file to something john can crack.
+[[John The Ripper]] comes with a useful binary to convert the contents of the `.asc` file to something john can crack.
 
 ![[tom-gpg2john.png]]
 
@@ -42,7 +49,9 @@ user.txt is in merlin home folder
 
 ## Root
 
-sudo -l shows us we can run `zip` as root.
+### Abusing [[sudo]]
+
+`sudo -l` shows us we can run `zip` as root.
 
 ![[tom-sudo-l.png]]
 

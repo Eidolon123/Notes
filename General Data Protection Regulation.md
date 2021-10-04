@@ -1,4 +1,9 @@
-#### General Data Protection Regulation 2018
+-----------------------------------------------
+# General Data Protection Regulation 2018
+Tags:  #Legal #Uni 
+Creation date: 2021-10-04
+
+-----------------------------------------------
 
 ##### Terms
 
