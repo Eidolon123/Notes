@@ -1,0 +1,1 @@
+Static code analysis is where we examine code without executing it to try and discover security vulnerabilities. 
