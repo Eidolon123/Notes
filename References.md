@@ -1,3 +1,10 @@
+-----------------------------------------------
+# References
+Tags:  #Coding
+Creation date: 2021-10-05
+
+-----------------------------------------------
+
 ## Create a Reference
 
 Creating a reference to a [[Variables|variable]] essentially creates an alias to it, it is like creating a copy but if something is done to the reference it is also done to the original. These aliases cannot be changed later on to reference anything else.

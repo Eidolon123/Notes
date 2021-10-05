@@ -1,6 +1,6 @@
 -----------------------------------------------
 # SQLMap
-Tags:  #Hacking #Tools #Cheatsheet
+Tags: #Cheatsheet #Hacking #Tools 
 Creation date: 2021-10-04
 
 -----------------------------------------------

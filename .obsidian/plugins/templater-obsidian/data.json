@@ -1,12 +1,7 @@
 {
   "command_timeout": 60,
   "templates_folder": "Templates",
-  "templates_pairs": [
-    [
-      "TodaysDate",
-      "date \"+%Y-%m-%d\""
-    ]
-  ],
+  "templates_pairs": [],
   "trigger_on_file_creation": true,
   "enable_system_commands": true,
   "shell_path": "/bin/zsh",

@@ -1,4 +1,9 @@
-### SOC process
+-----------------------------------------------
+# SOC process
+Tags:  #Security #Uni 
+Creation date: 2021-10-05
+
+-----------------------------------------------
 
 - Asset discovery
 	- need to know where all machines are, maintaining up to date inventory of all assets

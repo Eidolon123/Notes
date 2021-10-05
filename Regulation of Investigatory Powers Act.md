@@ -1,4 +1,10 @@
-# Regulation of Investigatory Powers Act (RIPA)
+-----------------------------------------------
+# Regulation of Investigatory Powers Act
+Tags:  #Legal #Uni 
+Creation date: 2021-10-05
+
+-----------------------------------------------
+
 
 Mainly gives [[law enforcement]] and security services greater power of [[surveillance]].
 -	If [[law enforcement]] asks for your [[passwords]] and [[encryption]] keys you are required to give them, automatically guilty if you do not (2-3 years).

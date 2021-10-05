@@ -1,4 +1,10 @@
-## monitoring infrastructure
+-----------------------------------------------
+# Monitoring Infrastructure
+Tags:  #Unsorted #Security #Uni 
+Creation date: 2021-10-05
+
+-----------------------------------------------
+
 
 A [[Security Operations Centre|SOC]] team will have to set up solid monitoring infrastructure 
 

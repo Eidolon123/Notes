@@ -1,3 +1,10 @@
+-----------------------------------------------
+# Information Security
+Tags:  #Security #Uni 
+Creation date: 2021-10-05
+
+-----------------------------------------------
+
 The [[CIA Triad]] is a good framework to judge the security of any information.
 
 [[Security Clearance]] is a good way of limiting the [[Availability]] of sensitive information.

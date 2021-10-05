@@ -1,4 +1,9 @@
-# John
+-----------------------------------------------
+# John The Ripper
+Tags:  #Hacking #Tools #Cheatsheet 
+Creation date: 2021-10-05
+
+-----------------------------------------------
 
 ### gpg
 

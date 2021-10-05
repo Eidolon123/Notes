@@ -1,3 +1,10 @@
+-----------------------------------------------
+# Laws
+Tags:  #Legal #Uni 
+Creation date: 2021-10-05
+
+-----------------------------------------------
+
 ## Common Law
 The decision on the case is decided by a jury of common people. Judge then decides sentence if guilty. Common law is practiced in the following countries:
 

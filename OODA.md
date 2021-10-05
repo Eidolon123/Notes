@@ -1,4 +1,10 @@
-#### The Observe, Orient, Decide, Act Loop (OODA)
+
+-----------------------------------------------
+# The Observe, Orient, Decide, Act Loop (OODA)
+Tags:  #Security #Uni 
+Creation date: 2021-10-05
+
+-----------------------------------------------
 
 ![[The-OODA-Loop.png]]
 

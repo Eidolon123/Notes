@@ -1,6 +1,6 @@
 -----------------------------------------------
 # <%tp.file.title%>
 Tags:  
-Creation date: <%tp.user.TodaysDate()%>
+Creation date: <%tp.date.now()%>
 
 -----------------------------------------------

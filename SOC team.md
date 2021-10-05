@@ -1,4 +1,10 @@
+-----------------------------------------------
 # SOC team
+Tags:  #Security #Uni 
+Creation date: 2021-10-05
+
+-----------------------------------------------
+
 
 -	tier1 sec analyst
 	-	manage security monitoring tools

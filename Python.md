@@ -1,3 +1,11 @@
+-----------------------------------------------
+# Python
+Tags:  #General #Coding 
+Creation date: 2021-10-05
+
+-----------------------------------------------
+
+
 ## Hijacking imports
 
 If a target has a python file with elevated privs that imports files, we can create a new file (contents below) with the name of the imported file to get a shell as whoever has the privs for the file.

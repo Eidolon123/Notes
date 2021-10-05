@@ -6,7 +6,7 @@ Creation date: 2021-10-04
 -----------------------------------------------
 ## The Hats
 
-The difference between a white hat and black hat is that white hats have permission to do what they do and comply with all the relevant [[Laws]] and regulations. When executing [[pentest]]s or [[red team]] attacks it is vital that the ethical hacker stay within organised [[Scope-pentest|scope]]. An ethical hacker also acts within the best interest of the organisation and treats all information discovered as [[Confidentiality|confidential]].
+The difference between a white hat and black hat is that white hats have permission to do what they do and comply with all the relevant [[Laws]] and regulations. When executing [[Pentest]]s or [[red team]] attacks it is vital that the ethical hacker stay within organised [[Scope-pentest|scope]]. An ethical hacker also acts within the best interest of the organisation and treats all information discovered as [[Confidentiality|confidential]].
 
 ## Skills
 
