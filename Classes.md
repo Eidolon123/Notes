@@ -1,4 +1,10 @@
+-----------------------------------------------
 # Classes
+Tags:  #Coding 
+Creation date: 2021-10-06
+
+-----------------------------------------------
+
 
 Allows users to create custom [[Data Types]] to represent more and more complex data.
 

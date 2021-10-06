@@ -1,12 +1,6 @@
 -----------------------------------------------
-# Data Types
-Tags:  #Coding 
+# Admonition
+Tags:  #Cheatsheet
 Creation date: 2021-10-06
 
 -----------------------------------------------
-
-Integer
-String
-Vector
-List
-Dictionary
