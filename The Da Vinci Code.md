@@ -1,6 +1,6 @@
 -----------------------------------------------
 # The Da Vinci Code
-Tags:  #Literature #General 
+Tags:  #Literature
 Creation date: 2021-10-04
 
 -----------------------------------------------

@@ -11,11 +11,11 @@ A [[Security Operations Centre (SOC)|SOC]] team will have to set up solid monito
 
 [[Intrusion Detection Systems]]
 
-[[DMZ]]
+[[De-militarised Zone]]
 
 [[Network Traffic Capture]]
 
-[[Endpoint security monitoring]]
+[[Endpoint Security Monitoring]]
 
 [[Log analysis]]
 

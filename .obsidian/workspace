@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "10b71107d0946631",
+        "id": "2612479b1cc6f310",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "THM Mustacchio.md",
+            "file": "Labs/303 - Workbook.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dark",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 411,
     "collapsed": true
   },
   "right": {
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THM Mustacchio.md",
+                "file": "Labs/303 - Workbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "THM Mustacchio.md",
+                "file": "Labs/303 - Workbook.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -117,14 +117,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.5053353897742622,
                   "close": false
                 }
               }
             }
           },
           {
-            "id": "659459623a923d76",
+            "id": "5725d284be025a71",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -132,34 +132,19 @@
             }
           },
           {
-            "id": "6855963af2e0c5ee",
+            "id": "04ba480e3e6d0f8b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THM Mustacchio.md",
+                "file": "Labs/303 - Workbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e10f27070a2cc99f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b45e863fbcbbc62",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           },
           {
-            "id": "f5296edafdc5c9cc",
+            "id": "226aa4f2cee7fbdc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,17 +162,17 @@
     "width": 371,
     "collapsed": true
   },
-  "active": "10b71107d0946631",
+  "active": "2612479b1cc6f310",
   "lastOpenFiles": [
-    "THM.md",
-    "John The Ripper.md",
-    "Hashcat.md",
+    "Labs/303 - Workbook.md",
     "Nmap.md",
-    "Admonition.md",
-    "Untitled.md",
-    "Labs/350 Week 1.md",
-    "SOC Roles.md",
-    "ISO 27005.md",
-    "Information Risk Management.md"
+    "Vulnerability Assessment.md",
+    "Vulnerability Scanners.md",
+    "Core IMPACT.md",
+    "Nexpose.md",
+    "OpenVAS.md",
+    "Nessus.md",
+    "Vulnerability Databases.md",
+    "Vulnerability Lifecycle.md"
   ]
 }

@@ -1,4 +1,10 @@
-### DMZ
+-----------------------------------------------
+# De-militarised Zone
+Tags:  #Security #Uni 
+Creation date: 2021-10-07
+
+-----------------------------------------------
+
 
 A demilitarized zone (DMZ) refers to a host or network that acts as a secure and intermediate network or path between an organization's internal network and the external, or non-propriety, network.
 

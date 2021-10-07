@@ -1,7 +1,7 @@
 -----------------------------------------------
-# 350 Week 1
-Tags:  #Lab #Uni #Security 
-Creation date: 2021-10-06
+# 350 Week 1 - Security Operations
+Tags:  #Lab #Uni #Security
+Creation date: 2021-10-07
 
 -----------------------------------------------
 

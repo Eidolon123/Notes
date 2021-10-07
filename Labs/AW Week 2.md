@@ -25,7 +25,7 @@ how to identify research questions?
 
 ## Task 1: Keeping a writing log (10 mins)
 
-Keep a [[writing-log]] about what has happened on the dissertation so far, any progress made on any front. Should ideally be done weekly, not huge, just a couple of lines about progress made or upcoming tasks that need to be tackled.
+Keep a [[Writing Log]] about what has happened on the dissertation so far, any progress made on any front. Should ideally be done weekly, not huge, just a couple of lines about progress made or upcoming tasks that need to be tackled.
 
 
 ## Goal Setting

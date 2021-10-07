@@ -16,5 +16,14 @@
       ],
       "key": "N"
     }
+  ],
+  "templater-obsidian:Templates/Lab question.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }
