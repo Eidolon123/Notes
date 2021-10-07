@@ -5,14 +5,14 @@ Creation date: 2021-10-05
 
 -----------------------------------------------
 
-- Asset discovery
-	- need to know where all machines are, maintaining up to date inventory of all assets
-		- run active and passive scans on the network to get full picture of network
-	- need to know business process, which machines should or should not be communicating
-	- need to know which systems are critical assets, potential pathways 
-		- also machines these rely on
-	- network infrastructure
-	- where to set up monitors
+## Asset discovery
+- need to know where all machines are, maintaining up to date inventory of all assets
+	- run active and passive scans on the network to get full picture of network
+- need to know business process, which machines should or should not be communicating
+- need to know which systems are critical assets, potential pathways 
+	- also machines these rely on
+- network infrastructure
+- where to set up monitors
 - event classification and triage
 	- collecting correlating and analysing traffic/log/etc
 		- filter out false positive
