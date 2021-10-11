@@ -80,6 +80,46 @@ When deploying our network security monitoring (NSM) infrastructure, setting up 
 ---
 
 ## Task 2
+```ad-question
+title: Windows Logs
+Use the account with administrative privileges to perform all steps provided below.
+```
+
+```ad-question
+title: 1
+Run «Local Security Policy» console on your Windows workstation or virtual machine (Start – Windows Administrative Tools – Local Security Policy). 
+```
+
+```ad-question
+title: 2
+Browse possible audit policy settings under ‘Security Settings\Local Policies\Audit Policy’ and ‘Security Settings\Advanced Audit Policy Configuration’. 
+```
+
+```ad-question
+title: 3
+Examine your current effective audit policy, using command auditpol /get /category:* 
+```
+
+```ad-question
+title: 4
+Try to change any audit policy parameter under ‘Security Settings\Advanced Audit Policy Configuration’ and after that examine your current effective audit policy, using auditpol utility. 
+```
+
+```ad-question
+title: 5
+Run ‘Event Viewer’ (Start – Windows Administrative Tools – Event Viewer) and browse some events in the event logs that we have recently discussed: Application, System, Security, logs under ‘Application and Services Logs\Microsoft\Windows’. 
+```
+
+```ad-question
+title: 6
+Enable ‘Microsoft-Windows-DNS Client Events’ log under ‘Application and Services Logs\Microsoft\Windows\DNS Client Events/Operational’. After that try to browse some websites. Check recorded DNS requests and responses after your web surfing. Disable ‘Microsoft-Windows-DNS Client Events’ log.
+```
+
+DO THIS ON HOME WINDOWS MACHINE
+
+---
+
+## Task 3
 
 ```ad-question
 title: Windows Security Components 1
@@ -90,7 +130,7 @@ Using Process Explorer utility from Sysinternals, find the files implementing th
 
 ---
 
-## Task 3
+## Task 4
 
 ```ad-question
 title: Windows Security Components 2
@@ -111,7 +151,7 @@ TESTDOMAIN\Share_RW =
 
 ---
 
-## Task 4
+## Task 5
 
 ```ad-question
 title: Windows Security Components 3
