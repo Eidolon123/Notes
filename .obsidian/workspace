@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "THM Anonymous.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "82a41e3c9feece13",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Nmap.md",
+            "file": "Gobuster.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THM Anonymous.md",
+                "file": "Gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "THM Anonymous.md",
+                "file": "Gobuster.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THM Anonymous.md",
+                "file": "Gobuster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,15 +177,15 @@
   },
   "active": "6c6222f6235f47e8",
   "lastOpenFiles": [
+    "Gobuster.md",
+    "Images/must-barry-idrsa.png",
+    "Labs/345 Week 4 - Scanning.md",
+    "Labs/345 Week 3 - Recon.md",
+    "Labs/345 Week 2 - Designing A Pentest.md",
+    "Labs/345 Week 1 - You Be the Judge.md",
+    "Labs/324 Week 2 - Eyeballing Code.md",
+    "Labs/324 Week 3 - Static Analysis.md",
     "THM Anonymous.md",
-    "Nmap.md",
-    "Templates/New Note.md",
-    "THM Mustacchio.md",
-    "THM Mr Robot.md",
-    "THM Bounty Hacker.md",
-    "Untitled.md",
-    "Pasted image 20211008152417.png",
-    "Pasted image 20211008152412.png",
-    "Pasted image 20211008151548.png"
+    "Nmap.md"
   ]
 }
