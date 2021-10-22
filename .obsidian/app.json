@@ -79,7 +79,10 @@
     "SOCs",
     "Cheatsheet",
     "Writeup",
-    "Mustacchio"
+    "Mustacchio",
+    "Untrapped",
+    "untrapped",
+    "Unforgeable"
   ],
   "alwaysUpdateLinks": true,
   "trashOption": "local"

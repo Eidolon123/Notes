@@ -1,7 +1,8 @@
 -----------------------------------------------
-# 324 Week 3 - Static Analysis
-Tags:  #TODO #Coding #Lab 
-Creation date: 2021-10-07
+# Type
+Tags:  #Coding #Uni 
+Creation date: 2021-10-22
 
 -----------------------------------------------
 
+A type 
