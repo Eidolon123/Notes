@@ -12,4 +12,3 @@ A safe language will lead to:
 - Mediation guarantees
 - Portability
 - Expected language properties such as reasonable efficiency and interfaces.
-
