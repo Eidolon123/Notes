@@ -1,7 +1,7 @@
 {
-  "baseFontSize": 15,
+  "baseFontSize": 18,
   "translucency": false,
-  "cssTheme": "Moonlight",
+  "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "autofading-ui",
     "better-bullet-points-in-edit-mode",
