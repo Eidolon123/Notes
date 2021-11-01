@@ -1,4 +1,10 @@
-# 350 poster
+-----------------------------------------------
+# 350 Poster
+Tags:  #Assessment #Security
+Creation date: 2021-11-01
+
+-----------------------------------------------
+
 
 ## prepare a poster presenting the proposed SOCaaS.
 
@@ -27,10 +33,34 @@ TTEV has to share sensitive information across its supply chain (e.g. car part d
 
 ## Sections
 
+### SOC Structure
+
+- [[SOC team]]
+- [[SOC Roles]]
+- [[SOC process]]
+- Tasks
+
+### Software/Hardware
+
+- Encryption Standards
+- 
+
 ### Threat intelligence
+
+- Dedicated team?
+- 
 
 ### Indications of compromise
 
 ### Reports
 
+- Brief overview of how reports will be structured
+
 ### What guidelines?
+
+- ISO/IEC 27035:2016
+	- Prepare
+	- Identify
+	- Assess
+	- Respond
+	- Learn
