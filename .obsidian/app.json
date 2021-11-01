@@ -82,7 +82,8 @@
     "Mustacchio",
     "Untrapped",
     "untrapped",
-    "Unforgeable"
+    "Unforgeable",
+    "plaintext"
   ],
   "alwaysUpdateLinks": true,
   "trashOption": "local"
