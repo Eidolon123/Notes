@@ -14,7 +14,7 @@ The main question is what data do we need?
 - Process activity events
 	- Processes that connect to network
 	- Works well with whitelist of allowed software 
-	- Powershell/CMD Activity
+	- [[Powershell]]/CMD Activity
 - reg keys
 	- Integrity changes
 - [[Autostart Extensibility Points]]

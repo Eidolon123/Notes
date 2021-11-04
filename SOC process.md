@@ -37,3 +37,22 @@ Creation date: 2021-10-05
 -	assessment and audit
 -	assessing the organisation security posture
 -	can involve pentesting
+
+## Event classification and triage
+
+- Collecting, correlating and analysing traffic/log/etc data.
+	- This is to pick up on [[Indicators of Compromise]]
+	- Remove false positives
+	- automation is critical
+
+## Prioritisation and analysis
+
+- Making sure we focus on the most important events
+	- APT
+	- If the attack targets high value assets
+- All attacks should be investigated to gather intel on attackers, if they come back to attack again this could be critical information/evidence allowing us to stop them faster. This is why sometimes we would let the attackers carry out their attack while we monitor, this depends on the situation though, mainly if they end up attacking a honeypot service. We want to find out the who/what/where.
+
+## Recovery
+
+## Assessment and Audit
+

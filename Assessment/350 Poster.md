@@ -33,12 +33,13 @@ TTEV has to share sensitive information across its supply chain (e.g. car part d
 
 ## Sections
 
+### Integration with existing IT departments
+
 ### SOC Structure
 
 - [[SOC team]]
 - [[SOC Roles]]
 - [[SOC process]]
-- Tasks
 
 ### Software/Hardware
 
@@ -47,7 +48,8 @@ TTEV has to share sensitive information across its supply chain (e.g. car part d
 
 ### Threat intelligence
 
-- Dedicated team?
+- Dedicated team
+- Darknet monitoring for info about company or people looking for info
 - 
 
 ### Indications of compromise
@@ -63,4 +65,8 @@ TTEV has to share sensitive information across its supply chain (e.g. car part d
 	- Identify
 	- Assess
 	- Respond
-	- Learn
+	- Learn	
+
+### Keeping systems online while SOC is implemented
+
+### Governance
