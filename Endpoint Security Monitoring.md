@@ -5,6 +5,9 @@ Creation date: 2021-10-07
 
 -----------------------------------------------
 
+[[Network Security Monitoring]] - Data in motion and ongoing events
+[[Endpoint Security Monitoring]] - Data at rest, as well as local events
+
 ESM is focused on the collection, aggregation and continuous analysis of data from endpoint devices. This is in order to detect and respond to incidents promptly.
 
 The main question is what data do we need?

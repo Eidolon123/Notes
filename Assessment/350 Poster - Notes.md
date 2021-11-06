@@ -30,8 +30,15 @@ Diagrams are good for presenting a lot of information.
 
 TTEV has to share sensitive information across its supply chain (e.g. car part designs and specifications)
 
+## Supply chain definition
+
+Hardware and software, cloud or local storage and distribution mechanisms
 
 ## Sections
+
+### Integrity checks 3rd party code
+
+Need to make sure 3rd party code from suppliers hasn't been tampered with before being used.
 
 ### Integration with existing IT departments
 
@@ -44,13 +51,14 @@ TTEV has to share sensitive information across its supply chain (e.g. car part d
 ### Software/Hardware
 
 - Encryption Standards
-- 
+- [[Zeek]]
+- [[OSSEC]]
+- [[Kismet]]
 
 ### Threat intelligence
 
 - Dedicated team
 - Darknet monitoring for info about company or people looking for info
-- 
 
 ### Indications of compromise
 
@@ -70,3 +78,15 @@ TTEV has to share sensitive information across its supply chain (e.g. car part d
 ### Keeping systems online while SOC is implemented
 
 ### Governance
+
+### Collaborative cyber security
+
+### Examples of previous attacks
+
+#### Watering hole attacks
+
+A watering hole attack utilises a website that the victim already uses and is familiar with. This site is then targeted in order to infect the victims machine, launching a pivot attack towards the rest of the network. This could compromise the entire supply chain.
+
+This could be mitigated by restricting the use of personal websites on corporate systems with a blacklist.
+
+### Using the ELK stack

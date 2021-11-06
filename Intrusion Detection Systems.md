@@ -18,6 +18,8 @@ Host based has moved more towards [[End-Point Detection Response]] and [[Antivir
 [[Kismet]]
 [[Modsecurity]]
 
+Alerts from these sources will be correlated in the [[Security Information and Event Management (SIEM)|SIEM]]
+
 ## Network Intrusion Detection System (NIDS)
 
 A NIDS is an independent platform that monitors network traffic and examines hosts to identify intruders. They connect to network hubs or network taps and are often placed in a [[#DMZ]] or network border. They then capture network traffic and analyse individual packets for malicious content.

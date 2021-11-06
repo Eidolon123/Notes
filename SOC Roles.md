@@ -12,5 +12,5 @@ Creation date: 2021-10-06
 -	[[Information Risk Management]]
 -	[[Information Assurance]]
 -	[[Security Governance]]
--	[[Security Information and Event Management]]
+-	[[Security Information and Event Management (SIEM)]]
 -	Making lives of attackers difficult along every step of the [[Cyber Kill Chain]]

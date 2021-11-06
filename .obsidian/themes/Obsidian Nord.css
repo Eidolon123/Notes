@@ -1,8 +1,8 @@
 
 :root
 {
-    --dark0:  #2e3440;
-    --dark1:  #3b4252;
+    --dark0:  #0d0d16;
+    --dark1:  #7f70c9;
     --dark2:  #434c5e;
     --dark3:  #4c566a;
 
@@ -22,7 +22,7 @@
     --green:  #a3be8c;
     --purple: #b48ead;
 
-    --font-monospace: 'Hack Nerd Font', 'Source Code Pro', monospace;
+    --font-monospace: 'InconsolataGo';
 }
 
 .theme-dark
