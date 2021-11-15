@@ -4,6 +4,13 @@
 
 As time passes, along with external factors such as the Covid-19 pandemic, IoT devices are being further and further integrated into both the lives of individuals and the running of businesses. This trend is only going to increase over the coming years, along with the need for devices and systems to be more efficient and easy to use for the masses. This paper will address IoT device security flaws and how they could leave the businesses that use them at risk of attack, IoT device's potential benefits to the business, and how best to implement  them with a focus on security.
 
+## Introduction
+
+## Ideas
+
+- The IoT-sphere, try and analyse it and assess its benefits and drawbacks
+- 
+
 ## References
 
 Brous, P., Janssen, M. and Herder, P. (2020). The dual effects of the Internet of Things (IoT): A systematic review of the benefits and risks of IoT adoption by organizations. *International Journal of Information Management*. https://doi.org/10.1016/j.ijinfomgt.2019.05.008
