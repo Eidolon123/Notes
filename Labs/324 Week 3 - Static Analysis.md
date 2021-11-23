@@ -28,7 +28,4 @@ This code is designed to print out the numbers 0-9 in order to the terminal.
 title: What does this report tell us?
 ```
 
-Incorrect types for operand of `<` (int, long int)
-
-incorrect use of `main(void)`, should be `void main()`
 

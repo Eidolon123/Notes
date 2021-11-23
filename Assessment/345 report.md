@@ -4,12 +4,33 @@
 
 As time passes, along with external factors such as the Covid-19 pandemic, IoT devices are being further and further integrated into both the lives of individuals and the running of businesses. This trend is only going to increase over the coming years, along with the need for devices and systems to be more efficient and easy to use for the masses. This paper will address IoT device security flaws and how they could leave the businesses that use them at risk of attack, IoT device's potential benefits to the business, and how best to implement  them with a focus on security.
 
-## Introduction
+## 1. Introduction
 
-## Ideas
+## 2. IoT communication types
 
-- The IoT-sphere, try and analyse it and assess its benefits and drawbacks
-- 
+### 2.1 Zigbee
+
+### 2.2 Z-wave
+
+### 2.3 WiFi
+
+## 3. Threats/Vulnerabilities
+
+### 3.1 Jamming in 
+
+The Facebook outage was prolonged by employee access to building being restricted. This could be replicated intentionally by malicious actors attacking IoT door locks for example.
+
+### 
+
+## 4. Mitigations
+
+### 4.1 IoT-Sphere
+
+### 4.2 SD-WAN
+
+## 5. Evaluation
+
+## 6. Conclusion
 
 ## References
 

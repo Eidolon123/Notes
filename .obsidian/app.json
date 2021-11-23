@@ -116,7 +116,10 @@
     "php",
     "Decompilation",
     "IoT",
-    "Covid"
+    "Covid",
+    "sanitisation",
+    "Mitigations",
+    "stdin"
   ],
   "alwaysUpdateLinks": true,
   "trashOption": "local"
