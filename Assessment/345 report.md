@@ -13,7 +13,9 @@ When it comes to IoT devices a premium is often placed on availability followed 
 
 ### Industrial IoT
 
-Industrial IoT or IIoT refers to the application of IoT connected devices in industrial applications such as manufacturing, assembly and logistics (Trend Micro, n.d)
+Industrial IoT or IIoT refers to the application of IoT connected devices in industrial applications such as manufacturing, assembly and logistics (Trend Micro, n.d). Security failures in Industrial processes such as these can have some of the most expensive and dangerous consequences. For example
+
+Unpatched security camera to router to network. Link to vulns in IoT devices being hard to patch, most devices being out of site out of mind.
 
 ### Smart Devices
 

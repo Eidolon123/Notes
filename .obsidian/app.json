@@ -123,7 +123,8 @@
     "Zigbee",
     "CoAP",
     "theorise",
-    "utilise"
+    "utilise",
+    "Unpatched"
   ],
   "alwaysUpdateLinks": true,
   "trashOption": "local"

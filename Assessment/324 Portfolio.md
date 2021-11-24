@@ -64,11 +64,16 @@ The size of the buffer for the `response` is 8 bytes. With canaries when we try 
 
 ![[launch-with-can.png]]
 
-> Something about how canaries work, overwriting the canary bits causes exit function to be called, etc.
+![[324-canarie1.png]]
+
+![[324-canarie2.png]]
+
+![[324-canarie3.png]]
 
 When we remove the canaries from the program we can input 9 'a' characters again but with no error being thrown. Now when we try to overflow the buffer with a large amount of 'a' characters we see that the program behaves in a different manner and allows access then launches a large amount of missiles.
 
 ![[launch-without-can.png]]
+
 
 ### Task 2 - input_form.php
 
