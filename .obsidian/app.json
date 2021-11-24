@@ -119,7 +119,11 @@
     "Covid",
     "sanitisation",
     "Mitigations",
-    "stdin"
+    "stdin",
+    "Zigbee",
+    "CoAP",
+    "theorise",
+    "utilise"
   ],
   "alwaysUpdateLinks": true,
   "trashOption": "local"
