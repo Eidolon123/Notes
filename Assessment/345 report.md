@@ -8,10 +8,12 @@ As time passes, along with external factors such as the Covid-19 pandemic, IoT d
 
 An IoT device is a device that collects contextual data using sensors to either action it or send it on to another connected device to perform an action (Hossain et al, 2015).
 
+IoT solutions provide a huge amount of convenience for the end user, making automation of mundane tasks in all sectors of life and work much easier. It is due to these easy to obtain results that IoT adoption has seen staggering growth in the last decade. As can be seen in Figure 1 below the number of IoT devices is predicted to out number non-IoT devices 3:1 in the year 2025. This growth will bring new innovation along with inevitable new security vulnerabilities and risks. 
+
 ![](/Images/345-iot-graph.png)
 Figure 1. A graph of connected devices split between IoT and non-IoT devices from 2019-2025 (Lueth, 2020).
 
-IoT adoption has had staggering growth in the last decade as can be seen in Figure 1 above. The number of IoT devices is predicted to out number non-IoT devices 3:1 in the year 2025, something about security being important......... Many devices are ones we don't even have security standards for.......... Devices such as AR/VR could carry their own vulns..... The more we know about IoT security now the better we can implement it in brand new ground breaking devices in the future......
+As we progress through the century niche technology such as augmented and virtual reality will continue to be developed and refined, eventually being integrated with the smart devices surrounding us now. Businesses that consider their IoT security in detail now will be able to carry over or modify their existing solutions for emerging tech.
 
 ## 2. Types of IoT
 
@@ -40,17 +42,9 @@ As with both Industrial IoT and Consumer IoT devices the increase in adoption ov
 
 ## 3. Ethical and Legal Considerations
 
-The availability of data is paramount when designing an IoT device, for example a smart pace maker 
-
-### Privacy
-
-IP Webcams are often deployed in offices of businesses to enable remote monitoring out of office hours and can cut down on the costs of an on site security team. Issues arise as IP cameras get cheaper and carry less security features such as a lack of encryption on the video feed. These cameras can pose a huge privacy issue when found on listings from Shodan with public facing login pages along with very often weak username and password combinations.
+Privacy and data security are two issues that can easily arise from poorly configured security surround IoT devices. IP Webcams are often deployed in offices of businesses to enable remote monitoring out of office hours and can cut down on the costs of an on site security team. Issues arise as IP cameras get cheaper and carry less security features such as a lack of encryption on the video feed. These cameras can pose a huge privacy issue when found on listings from Shodan with public facing login pages along with very often weak username and password combinations.
 
 Lets take for example a camera that looks over a floor of office cubicles. The employees of this office will more than likely never really notice the camera as is the case with many out of sight out of mind IoT devices. If this camera is actually streaming video openly to the internet there's a very high chance that an attacker could watch this stream and extract sensitive data such as passwords typed on a screen, record keystrokes if someones keyboard is visible or just record movements of employees in preparation for a physical attack. In this situation the business has both an ethical and legal obligation to ensure the security of their surveillance systems.   
-
-### Data Security
-
-Due to IoT devices often being low/battery powered they will lack the computational power to perform complex encryption algorithms. Whether data is stored locally on the device or sent to the cloud this 
 
 ## 4. Security Concerns
 
@@ -63,12 +57,17 @@ When it comes to IoT devices a premium is often placed on availability followed 
 Any device connected to the internet is visible to anyone that looks in the right place. This process is made easy with the Shodan search engine. Using a variety of tags and filters we can see devices connected to the internet and the banners that they return.
 
 ![](/Images/345-gb-titles.png)
+Figure 3. A list of the most common HTTP titles returned by IoT devices in the UK.
+
 Here we can see the top HTTP page titles of devices in the united kingdom being returned to us through Shodan. The top result is "401 Unauthorized" which indicates that the device has been set up correctly in order to stop unauthorised access. Interestingly the third most common result is "Vigor login page", Vigor is a brand of router made by DrayTek used across the UK and other countries.
 
 ![](../Images/345-vigor-login.png)
-As these IP addresses are exposed to the internet we can easily connect and are presented with a login page. While this doesn't inherently pose a risk to whoever's router this is, if they have failed to set up their device correctly an attacker can search for a list of default username and passwords, as seen below, to try and gain access to their network device.
+Figure 4. A login form served by a router exposed to the internet.
+
+As these IP addresses are exposed to the internet we can easily connect and are then presented with a login page. While this doesn't inherently pose a risk to whoever's router this is, if they have failed to set up their device correctly an attacker can search for a list of default username and passwords, as seen below, to try and gain access to their network device.
 
 ![](/Images/345-vigor-defaults.png)
+Figure 5. A list of the default usernames and passwords used by various Vigor routers.
 
 Access to the router in a network can allow an attacker to hijack DNS and steal users information with ease.
 
@@ -85,14 +84,16 @@ Due to the nature of IoT devices being small, low powered, low processing power 
 Implementing proper password practices can severely limit an attackers options when trying to use an IoT device to gather information or as a toe hold on the network.
 
 ![](/Images/345-iot-users.png)
-Figure 1. A graph of the most common usernames used in IoT attacks (Symantec, 2020). 
+Figure 6. A graph of the most common usernames used in IoT attacks (Symantec, 2020). 
 
 ![](/Images/345-iot-passwords.png)
-Figure 2. A graph of the most common passwords used in IoT attacks (Symantec, 2020). 
+Figure 7. A graph of the most common passwords used in IoT attacks (Symantec, 2020). 
 
 As can be seen from the above graphs, attackers are using easily guessable or default passwords when trying to access IoT devices. Failing to implement sufficient passwords on devices is akin to removing the password altogether and leaves your device open to anyone that can find it.
 
-It can be argued that it is the manufacturers error in not implementing mandatory password changes during set up of devices, this is unlikely to change until laws surrounding the security of IoT devices catch up with the growth of the industry. In this intermediary time, the department responsible for setting up connected devices within the business should make sure that a secure password policy is baked into the security governance of the business. This governance should layout factors such as:
+It can be argued that it is the manufacturers error in not implementing mandatory password changes during set up of devices, this is unlikely to change until laws surrounding the security of IoT devices catch up with the growth of the industry. In this intermediary time, the department responsible for setting up connected devices within the business should make sure that a secure password policy is baked into the security governance of the business.
+
+This governance should layout factors such as:
 
 | Factor                       | Example                               |
 | ---------------------------- | ------------------------------------- |
@@ -112,40 +113,44 @@ If multiple vendors are used due to necessity, a concerted effort should be made
 
 When considering what IoT devices to implement in the business it is highly recommended to find devices that adhere to standards such as ETSI EN 303 645 (European Telecommunications Standards Institute, 2020). Devices that follow these guidelines will be at far less risk of attack. While it may be difficult to find devices that adhere wholeheartedly to these guidelines it is recommended that IT and security departments familiarise themselves with the documentation and make their decisions based on that.
 
+### 5.3 Network Traffic and Rules
+
+If the business in question has an IT security department monitoring inbound and outbound traffic from IoT devices is an effective way of securing a businesses IoT solution. Monitoring internal network traffic will provide early signs of intrusion such as different IoT devices communicating with systems they wouldn't normally. Large IoT solutions can generate a huge amount of data so care should be taken to monitor key network choke points to keep data to a usable level. Using these tools allow and deny lists can be generated to prevent a single device leaving it's assigned scope.
+
+Due to the limited processing capacity of IoT devices it will likely not be possible to deploy traditional host monitoring systems on each device.
+
 ## 6. Conclusion
 
-Making sure consumers know that they are making a choice between usability and security.
+As the IoT industry grows and becomes more integrated with the daily functions of consumers, industry and medicine, bad actors are going to shift their focus onto finding ways to exploit these new systems. In this period where manufacturers can legally ship these devices with limited or non-existent security features, the onus is unfortunately on the business investing in IoT solutions to make sure they choose the right balance between convenience and security.
 
-As IoT becomes more integrated with the daily functions of consumers, industry and medicine
+Businesses adopting IoT solutions should ensure that any new device added to their network is surrounded by the appropriate security controls to monitor their behaviour. Logs of security patches should be kept and all relevant new patches should be installed at the earliest opportunity. Failure to ensure all devices are patched can easily leave a hole in the network for attackers to use as a toe hole to pivot towards the rest of the network. 
+
+Businesses that build up their security solutions surrounding IoT now will have an advantage as newer, more powerful IoT devices are developed that have more integrated security functions. Having sophisticated security policies and procedures will allow the business to reap the benefits of a full IoT solution while minimising their risks.
 
 ## References
-
-Hossain, M., Fotouhi, M., & Hasan, R. 2015. Towards an Analysis of Security Issues, Challenges, and Open Problems in the Internet of Things. 2015 IEEE World Congress On Services. https://doi.org/10.1109/services.2015.12
-
-Patnaik, Ranjit & Padhy, Dr. Neelamadhab & Raju, Srujan. 2020. A Systematic Survey on IoT Security Issues, Vulnerability and Open Challenges. https://doi.org/10.1007/978-981-15-5400-1_68
-
-
-Harper, A., Regalado, D., Linn, R., Sims, S., Spasojevic, B., & Martinez, L. et al. 2018. Gray hat hacking (5th ed.). McGraw-Hill Education.
-
-Trend Micro. N.D. Industrial Internet of Things (IIoT). https://www.trendmicro.com/vinfo/us/security/definition/industrial-internet-of-things-iiot.
-
-Heath, A. 2021. Locked out and totally down: Facebook's scramble to fix a massive outage. https://www.theverge.com/2021/10/4/22709575/facebook-outage-instagram-whatsapp
-
-Sinha, S. (2021). State of IoT 2021: Number of connected IoT devices growing 9% to 12.3 billion globally, cellular IoT now surpassing 2 billion. IoT Analytics. Retrieved 25 November 2021, from https://iot-analytics.com/number-connected-iot-devices/.
-
-Lueth, K. (2020). State of the IoT 2020: 12 billion IoT connections, surpassing non-IoT for the first time. IoT Analytics. https://iot-analytics.com/state-of-the-iot-2020-12-billion-iot-connections-surpassing-non-iot-for-the-first-time/.
-
-Symantec. Threat Landscape Trends – Q2 2020. Symantec-enterprise-blogs.security.com. https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/threat-landscape-trends-q2-2020.
-
-European Telecommunications Standards Institute. 2020. Cyber Security for Consumer Internet of Things: Baseline Requirements. https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf
-
-Ezell, S. (2016). IoT and Smart Manufacturing. https://www2.itif.org/2016-ezell-iot-smart-manufacturing.pdf?_ga=1.261819661.1089858538.1464487061.
-
-Westcott, K., Loucks, J., Littmann, D., Wilson, P., Srivastava, S., & Ciampa, D. (2019). Build it and they will embrace it. https://www2.deloitte.com/content/dam/insights/us/articles/6457_Mobile-trends-survey/DI_Build-it-and-they-will-embrace-it.pdf.
 
 Brassfield, M. (2021). Smart devices more than doubled in US homes amid COVID pandemic. https://www.itpro.co.uk/mobile/mobile-phones/359826/smart-devices-more-than-doubled-in-us-homes-amid-covid-pandemic.
 
 Diabetes UK. Continuous glucose monitoring (CGM). https://www.diabetes.org.uk/guide-to-diabetes/managing-your-diabetes/testing/continuous-glucose-monitoring-cgm.
 
-Unpatched security camera to router to network. Link to vulns in IoT devices being hard to patch, most devices being out of site out of mind.
+European Telecommunications Standards Institute. 2020. Cyber Security for Consumer Internet of Things: Baseline Requirements. https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf
 
+Ezell, S. (2016). IoT and Smart Manufacturing. https://www2.itif.org/2016-ezell-iot-smart-manufacturing.pdf?_ga=1.261819661.1089858538.1464487061.
+
+Harper, A., Regalado, D., Linn, R., Sims, S., Spasojevic, B., & Martinez, L. et al. 2018. Gray hat hacking (5th ed.). McGraw-Hill Education.
+
+Heath, A. 2021. Locked out and totally down: Facebook's scramble to fix a massive outage. https://www.theverge.com/2021/10/4/22709575/facebook-outage-instagram-whatsapp
+
+Hossain, M., Fotouhi, M., & Hasan, R. 2015. Towards an Analysis of Security Issues, Challenges, and Open Problems in the Internet of Things. 2015 IEEE World Congress On Services. https://doi.org/10.1109/services.2015.12
+
+Lueth, K. (2020). State of the IoT 2020: 12 billion IoT connections, surpassing non-IoT for the first time. IoT Analytics. https://iot-analytics.com/state-of-the-iot-2020-12-billion-iot-connections-surpassing-non-iot-for-the-first-time/.
+
+Patnaik, Ranjit & Padhy, Dr. Neelamadhab & Raju, Srujan. 2020. A Systematic Survey on IoT Security Issues, Vulnerability and Open Challenges. https://doi.org/10.1007/978-981-15-5400-1_68
+
+Sinha, S. (2021). State of IoT 2021: Number of connected IoT devices growing 9% to 12.3 billion globally, cellular IoT now surpassing 2 billion. IoT Analytics. Retrieved 25 November 2021, from https://iot-analytics.com/number-connected-iot-devices/.
+
+Symantec. Threat Landscape Trends – Q2 2020. Symantec-enterprise-blogs.security.com. https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/threat-landscape-trends-q2-2020.
+
+Trend Micro. N.D. Industrial Internet of Things (IIoT). https://www.trendmicro.com/vinfo/us/security/definition/industrial-internet-of-things-iiot.
+
+Westcott, K., Loucks, J., Littmann, D., Wilson, P., Srivastava, S., & Ciampa, D. (2019). Build it and they will embrace it. https://www2.deloitte.com/content/dam/insights/us/articles/6457_Mobile-trends-survey/DI_Build-it-and-they-will-embrace-it.pdf.
