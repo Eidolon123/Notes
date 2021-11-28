@@ -1,6 +1,6 @@
 -----------------------------------------------
-# <%tp.file.title%>
-Tags: 
-Creation date: <%tp.date.now()%>
+# Information Theory
+Tags:  
+Creation date: 2021-11-28
 
 -----------------------------------------------
