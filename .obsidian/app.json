@@ -139,7 +139,10 @@
     "cryptographic",
     "cubicals",
     "minimising",
-    "Lueth"
+    "Lueth",
+    "Prewriting",
+    "prewriting",
+    "pre"
   ],
   "alwaysUpdateLinks": true,
   "trashOption": "local"
