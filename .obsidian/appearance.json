@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 15,
+  "baseFontSize": 14,
   "translucency": false,
   "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
@@ -10,7 +10,6 @@
     "custom-icons-differing-files-and-folders",
     "custom-icons-for-frontmatter-tags",
     "custom-icons-for-specific-folders",
-    "enlarge-image-on-hover",
     "hyphenation-and-justification",
     "image-cards",
     "nicer-checkboxes",
