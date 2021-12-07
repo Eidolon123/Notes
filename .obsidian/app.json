@@ -1,0 +1,9 @@
+{
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Wireshark",
+    "Strats",
+    "Zeek",
+    "pentest"
+  ]
+}
