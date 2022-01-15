@@ -5,7 +5,7 @@ Creation date: 2021-10-04
 
 -----------------------------------------------
 
-By default, everything in a [[Classes|class]] is **private**, meaning [[Classes|class]] members are limited to the [[Scope-coding]] of the class. This makes it easier to keep data from mistakenly being altered. If you try to access a private class member, you’ll get an error:
+By default, everything in a [[Classes|class]] is **private**, meaning [[Classes|class]] members are limited to the [[Scope (Coding)]] of the class. This makes it easier to keep data from mistakenly being altered. If you try to access a private class member, you’ll get an error:
 
 ```error
 error: 'population' is a private member of 'City'

@@ -16,7 +16,7 @@ What would be the cyber security equivalent of each of these items? What else mi
 - Security Personnel
 	- [[Vulnerability scanners]] or [[Intrusion Detection Systems|HIDS]], checking host systems for compromise.
 - Locks
-	- Access control, passwords, [[biometrics]], etc.
+	- Access control, passwords, [[Biometrics]], etc.
 - Occupation/Motion sensors
 	- [[Intrusion Detection Systems|NIDS]], [[traffic interception|monitoring network traffic]] and hosts to identify intruders.
 - Cameras

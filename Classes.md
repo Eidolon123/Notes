@@ -38,7 +38,7 @@ public:
 };
 ```
 
-In terms of [[Scope-coding|scope]] everything in a class is [[Access Control - Code|private]] unless it is under a `public:` tag.
+In terms of [[Scope (Coding)|scope]] everything in a class is [[Access Control - Code|private]] unless it is under a `public:` tag.
 
 ### Defining Class Functions
 Having the attributes of a class be private is why there are methods ([[Functions]]) associated with the class called "get_artist", "get_title" and "get_records_sold" these methods will only be able to read the data stored in the objects attributes not write to them, avoiding accidental bugs.  For example:

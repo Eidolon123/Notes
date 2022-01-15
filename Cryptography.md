@@ -43,7 +43,7 @@ A parameter used in the encryption algorithm.
 
 ### Kerckhoff's principle
 
-Kerckhoff's principle is that the Key (K) is secret while the algorithm is public. 
+Kerckhoff's principle is that the Key $K$ is secret while the algorithm is public. 
 
 ### Encipher/Encrypt $E$
 
