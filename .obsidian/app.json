@@ -6,7 +6,7 @@
     "Zeek",
     "pentest"
   ],
-  "legacyEditor": false,
+  "legacyEditor": true,
   "livePreview": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true
