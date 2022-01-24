@@ -1,4 +1,0 @@
--	Look into perl setuid capabilities
--	Look into responsible disclosure
-	-	Information commissions office
--	Look into printspoofer
