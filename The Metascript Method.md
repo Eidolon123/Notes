@@ -1,9 +1,7 @@
 -----------------------------------------------
-# The Reboot Regimen
-Tags: #Personal
-Creation date: 2022-01-21
+# The Metascript Method
+Tags: #Personal 
+Creation date: 2022-01-24
 
 -----------------------------------------------
-
-## Leaving Fantasy for Reality
 
